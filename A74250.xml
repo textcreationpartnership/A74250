@@ -1,0 +1,1795 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The votes of the House, or The dayly proceedings in Parliament since the coming in of the secluded members the 21 of February 1659, untill the dissolution of the Parliament March 16 1659. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 86 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74250</idno>
+            <idno type="STC">Thomason E1016_1</idno>
+            <idno type="STC">ESTC P1103</idno>
+            <idno type="EEBO-CITATION">99868276</idno>
+            <idno type="PROQUEST">99868276</idno>
+            <idno type="VID">168782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168782)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1016[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The votes of the House, or The dayly proceedings in Parliament since the coming in of the secluded members the 21 of February 1659, untill the dissolution of the Parliament March 16 1659. Published according to order.</title>
+                  <author>Williams, Oliver, fl. 1657-1670.</author>
+               </titleStmt>
+               <extent>[2], 168 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Iohn Redmayne in Lovels Court in Pater-noster-row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published daily as a serial when Parliament was sitting; usual title was "A perfect diurnal of every dayes proceedings in Parliament"; at the end of the session was re-issued with general title page.</note>
+                  <note>Edited by Oliver Williams. Cf. Nelson and Seccombe, 501.</note>
+                  <note>Thomason Tract copy includes a counterfeit no. 3 printed by D. Maxwell.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168782:1" rendition="simple:additions"/>
+            <p>THE VOTES OF THE HOUSE, Or the dayly Proceedings in PARLIAMENT Since the coming in of the ſecluded Members the 21 of <hi>February</hi> 1659, untill the diſ<g ref="char:EOLhyphen"/>ſolution of the Parliament <hi>March</hi> 16 1659.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Published according to Order.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by IOHN REDMAYNE in <hi>Lovels</hi> Court in <hi>Pater-noster-row</hi> 1659.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:168782:2" rendition="simple:additions"/>
+                  <pb n="1" facs="tcp:168782:2"/>
+                  <head>
+                     <hi>Numb.</hi> 1. A PERFECT DIURNAL Of every dayes Proceedings in PARLIAMENT</head>
+                  <head type="sub">
+                     <hi>Tueſday</hi> 21. Feb.</head>
+                  <opener>Reſolved,</opener>
+                  <p>THat the Reſolutions of this Houſe of the 18. <hi>Decemb.</hi> 1648. that Liberty be given to the members of this Houſe to declare their diſſent to the Vote of the 5 <hi>Decemb.</hi> 1648. that the King's Anſwer to the Propoſitions of both Houſes was a ground for this Houſe to pro<g ref="char:EOLhyphen"/>ceed upon for the ſettlement of the peace of the Kingdome be vacuated and made null and void.</p>
+                  <p>Reſolved, that the reſolutions of this Houſe of of the 20. <hi>Decemb.</hi> 1648. touching members de<g ref="char:EOLhyphen"/>claring their diſſent or diſapproval of the ſaid Vote
+<pb n="2" facs="tcp:168782:3"/>of the 5. of <hi>Decemb.</hi> 1648. to a Committee therein named, and every clauſe of the ſaid Order be va<g ref="char:EOLhyphen"/>cuated and made null and void.</p>
+                  <p>Reſolved that the Order of the 23. <hi>Feb.</hi> 1648. that no Member that hath not ſitten in this Houſe ſince the 31. of <hi>Ian.</hi> then laſt, ſhould ſit in any Com<g ref="char:EOLhyphen"/>mittee until this Houſe take further order, be va<g ref="char:EOLhyphen"/>cuated and made null and void.</p>
+                  <p>Reſolved that the Votes of the 9. of <hi>Iune</hi> 1649. touching ſuſpending the ſitting of ſuch members as ſhall enter their diſſent or diſapproval of the ſaid Vote of the 5. of <hi>Decemb.</hi> 1648. and ſhould not be<g ref="char:EOLhyphen"/>fore the 30, of the ſaid Moneth of <hi>Iune</hi> give ſatisfa<g ref="char:EOLhyphen"/>ction to the ſaid Committee; and that the Houſe would proceed to the Election of new Members in their room, be vacuated and made null and void.</p>
+                  <p>Reſolved that all Orders of this Houſe made upon a Paper intituled <hi>A ſolemn Proteſtation of the Impriſoned and ſecluded Members of the Commons Houſe, againſt the horrid force and violence of the Officers and Souldiers of the Army on</hi> Wedneſday <hi>and</hi> Thurſday <hi>laſt being the ſixth and ſeventh of</hi> December 1648. be and are hereby vacated and made null and void, and the ſaid Paper be taken off the File.</p>
+                  <p>Reſolved that the Reſolutions of Parliament of the 5. of <hi>Ian.</hi> 1639. for confirming the former
+<pb n="3" facs="tcp:168782:3"/>Votes be likewiſe Vacated and made null and voyd.</p>
+                  <p>Reſolved that all Votes of this Houſe touching New Elections of Members to ſit and ſerve in this Parliament, be and are hereby Vacated, and that Mr. Speaker be and is required not to ſigne any ſuch Orders.</p>
+                  <p>Ordered that it be referred to a Committee to expunge and obliterate the Votes and Reſolutions of this Houſe this day Vacated; and alſo to conſi<g ref="char:EOLhyphen"/>der what other Votes there are of this nature. and report their opinion to the Parliament, which of them they conceive fit to be Vacated, who are to meet in the Speaker's Chamber at two of the clock this afternoon.</p>
+                  <p>Reſolved that General <hi>GEORGE MONCK</hi> be conſtituted and appointed Capt. Gen. and Commander in Chief under the Parliament of all the Forces of <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+                  </p>
+                  <p>Reſolved that Vice Admiral <hi>Lawſon</hi> be and is hereby continued Vice Admirall of the Navall Forces.</p>
+                  <p>An Act conſtituting Commiſſioners for the go<g ref="char:EOLhyphen"/>vernment of the Army was read.</p>
+                  <p>Reſolved that all the powers granted unto Ge<g ref="char:EOLhyphen"/>neral <hi>George Monck,</hi> Sir <hi>Arthur Haſilrig,</hi> Col. <hi>Walton,</hi> Col. <hi>Morlcy</hi> and Col. <hi>Matthew Allured</hi> by the ſaid Act appointing Commiſſioners for go<g ref="char:EOLhyphen"/>vernment
+<pb n="4" facs="tcp:168782:4"/>of the Army, doe ceaſe; and that the ſaid Commiſſioners be required to forbear nor Proceed to Act any further thereupon; and that Col. <hi>Norley</hi> doe give them notice of the ſaid Votes to the reſt of the ſaid Commiſſioners.</p>
+                  <p>Reſolved that an Act of Repeal of the ſaid Act appointing Commiſſioners for the government of the Army be brought in by a Committee.</p>
+                  <p>Reſolved that Sir <hi>Robert Pye,</hi> Major <hi>Fincher,</hi> Mr. <hi>Vincent,</hi> Mr. <hi>Bludworth,</hi> Major <hi>Chamberlain,</hi> Col. <hi>Bromfield,</hi> Mr. <hi>Iackſon,</hi> and Mr. <hi>Thomas Brown</hi> and Major <hi>Cox</hi> be diſcharged of their Impri<g ref="char:EOLhyphen"/>ſonment in the Tower of <hi>London.</hi>
+                  </p>
+                  <p>Reſolved that Mr. <hi>Rolles</hi> be diſcharged of his impriſonment upon giving ſecurity to the Lieute<g ref="char:EOLhyphen"/>nant of the Tower not to diſturb the peace of the Commonwealth.</p>
+                  <p>Ordered, that the Lieutenant of the Tower doe give an account to the Parliament to morrow morning of the cauſe of the impriſonment of Sir <hi>George Booth</hi> and Major <hi>Peter Brook.</hi>
+                  </p>
+                  <p>Ordered, that all ſuch Orders as have been made ſince Saturday laſt by the Council of State, or Commiſſioners of the Army concer<g ref="char:EOLhyphen"/>ning the Forces and Garriſons, be commu<g ref="char:EOLhyphen"/>nicated to Generall <hi>George Monck,</hi> and that
+<pb n="5" facs="tcp:168782:4"/>there be no proceedings upon any of the ſaid Or<g ref="char:EOLhyphen"/>ders without the approbation of the ſaid Generall <hi>George Monck.</hi>
+                  </p>
+                  <p>Reſolved, that all powers given to the Coun<g ref="char:EOLhyphen"/>cil of State, be and are hereby ſuſpended untill the Parliament take further order; and that an Act be brought in for conſtituting a new Council of State this afternoon, and that Mr <hi>Weaver</hi> do give notice of this order to the Council of State, and leave the order with the Clerk of the Council.</p>
+                  <div type="part">
+                     <head>Afternoon.</head>
+                     <p>Reſolved, that the Order of Parliament of the 9 of this inſtant <hi>February,</hi> that the preſent Common Council for the City of <hi>London,</hi> Elected for this yeer be diſcontinued, and declared null and voyd, ſhall be &amp; is hereby vacated and made null &amp; voyd.</p>
+                     <p>Reſolved, that the Lord Mayor, Aldermen and Common Council of the City of <hi>London,</hi> have li<g ref="char:EOLhyphen"/>berty to make up their Gates, Poſts, Percullices and Chains, as they ſhall ſee cauſe.</p>
+                     <p>Ordered, that St <hi>Gilbert Gerrard,</hi> Mr <hi>Vaſsells</hi> and Alderman <hi>Atkins</hi> do deliver theſe Votes to the Lord Mayor and Common Council of the City of <hi>London.</hi>
+                     </p>
+                     <p>Ordered, that a Committee do withdraw and bring in an Act for repealing the Act conſtituting
+<pb n="6" facs="tcp:168782:5"/>Commiſſioners for the Government of the Army.</p>
+                     <p>Mr <hi>Weaver</hi> acquaints the Houſe that he had gi<g ref="char:EOLhyphen"/>ven notice to the Council of State of the Order of this Houſe for ſuſpending the Council of State ac<g ref="char:EOLhyphen"/>cording to the command of the Parliament, and that ready obedience will be yielded thereunto.</p>
+                     <p>The Bill appointing and conſtituting a Council of State was this day read the firſt and ſecond time, and Committed.</p>
+                     <p>Reſolved, that the number of the Council of State be one and thirty, and that General <hi>George Monck</hi> be one of the Council of State, and that the reſpective Members of Parliament do to morrow morning give in names to make up the thirty per<g ref="char:EOLhyphen"/>ſons more to be of the Council of State, and that they be choſen by the Glaſſes as formerly was accu<g ref="char:EOLhyphen"/>ſtomed to morrow morning, and that a Commit<g ref="char:EOLhyphen"/>tee be appointed to meet this afternoon to conſider of inſtructions for the Council of State.</p>
+                     <p>Ordered, that Mr <hi>Peter Brook</hi> do attend the Par<g ref="char:EOLhyphen"/>liament to morrow morning.</p>
+                     <p>Ordered, that Mr Speaker do write Let ters to he Sheriffs of the reſpective Counties to ſummon
+<pb n="7" facs="tcp:168782:5"/>the reſpective Members of Parliament to attend the ſervice of the Parliament, and ſign the ſame.</p>
+                     <p>Ordered, that the Order concerning the impri<g ref="char:EOLhyphen"/>ſonment of any of the Members of the Common Council be diſcharged.</p>
+                     <p>Ordered that Mr <hi>Chester</hi> High Sheriff of <hi>Buck<g ref="char:EOLhyphen"/>inghamſhire</hi> be diſcharged of his impriſonment, alſo that <hi>Henry Brook</hi> be likewiſe diſcharged of his im<g ref="char:EOLhyphen"/>priſonment.</p>
+                     <p>Ordered, that Generall <hi>George Monck</hi> be deſired to take care that the Poſt have free paſſage for this night, and that Sr <hi>Iohn Temple</hi> do acquaint him with this Order.</p>
+                     <p>Ordered, that Sr <hi>Iohn Norcott,</hi> Sr <hi>Richard Temple,</hi> Mr <hi>Courtney,</hi> Sr <hi>Copleston Bampfield</hi> be diſcharged of their impriſonment.</p>
+                     <p>Ordered, that the keeper of the Caſtle of <hi>Wind<g ref="char:EOLhyphen"/>ſor</hi> doe forthwith certifie to the Parliament the cauſes of the impriſonment of the Earles of <hi>Craw<g ref="char:EOLhyphen"/>ſord</hi> and <hi>Lawtherdale,</hi> and the Lord St <hi>Clare</hi> now in priſon there.</p>
+                     <pb n="8" facs="tcp:168782:6"/>
+                     <p>Reſolved, that the Apprentices of <hi>London</hi> now in priſonin <hi>Lambeth-Houſe</hi> be diſcharged of their impriſonment.</p>
+                     <p>
+                        <hi>This Evening was ended with abundance of Bone<g ref="char:EOLhyphen"/>fires, Ringing of Bells, acclamations of joy throughout the whole City of</hi> London.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="9" facs="tcp:168782:6" rendition="simple:additions"/>
+                  <head>
+                     <hi>Numb.</hi> 2 A PERFECT DIURNAL: OR The dayly Proceedings IN PARLIAMENT.</head>
+                  <head type="sub">
+                     <hi>Wedneſday</hi> 22. Feb.</head>
+                  <p>Mr. <hi>Prin</hi> Reports what Votes are fitting to be expun<g ref="char:EOLhyphen"/>ged out of the Iournall Book.</p>
+                  <pb n="10" facs="tcp:168782:7"/>
+                  <p>Ordered that the entry of diſ<g ref="char:EOLhyphen"/>ſents by Members of Parliament to the Vote of the 5. of <hi>December</hi> 1648. be diſcharged, and made null and voyd, and to be expun<g ref="char:EOLhyphen"/>ged out of the Journalls of Par<g ref="char:EOLhyphen"/>liament.</p>
+                  <p>A Proclamation dated 3. <hi>Iune</hi> 1659. againſt Major General <hi>Brown,</hi> and others, to render themſelves to the Council of State was read.</p>
+                  <p>Reſolved that Major General <hi>Brown</hi> be admitted to come and take his place in Parliament.</p>
+                  <p>Ordered that the order for the ſaid Proclamation againſt Major General <hi>Brown</hi> and ſome others:
+<pb n="11" facs="tcp:168782:7"/>and the ſaid Proclamation, as to Maj. Gen. <hi>Brown,</hi> be, and is hereby vacuated &amp; made null &amp; voyd, the Members of the Council of State having declared that no<g ref="char:EOLhyphen"/>thing appeareth charged againſt the ſaid Major General <hi>Brown.</hi>
+                  </p>
+                  <p>Coll. <hi>Morley</hi> Reports the Warrant by which Sir <hi>George Booth</hi> was committed to the Tower, which was read.</p>
+                  <p>Reſolved that Sir <hi>George Booth</hi> be diſcharged of his impriſon<g ref="char:EOLhyphen"/>ment in the Tower, upon giving 5000 <hi>l.</hi> Bayl to anſwer any thing that ſhall be objected againſt him, and that the Lieutenant of the Tower do take Bayl of him ac<g ref="char:EOLhyphen"/>cordingly.</p>
+                  <pb n="12" facs="tcp:168782:8"/>
+                  <p>Reſolved that the Sequeſtra<g ref="char:EOLhyphen"/>tion of the Eſtate of Sir <hi>George Booth</hi> be ſuſpended, untill the Parliament take further order, and that the Commiſsioners for Sequeſtrations, and all other per<g ref="char:EOLhyphen"/>ſons whom it doth or may con<g ref="char:EOLhyphen"/>cern, are required to forbear, fur<g ref="char:EOLhyphen"/>ther to proceed upon the ſaid ſe<g ref="char:EOLhyphen"/>queſtration.</p>
+                  <p>A bill for the continuance of the Cuſtomes and Exciſe, from the laſt day of <hi>Feb.</hi> 1659. untill the <gap reason="blank" resp="#OXF" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> day of <gap reason="blank" resp="#OXF" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> was this day read the ſecond time, and committed to a Committee, who are to meet this afternoon at two of the clock in the Court of VVards,
+<pb n="13" facs="tcp:168782:8"/>and ordered that it be brought in to mor<g ref="char:EOLhyphen"/>row morning.</p>
+                  <p>Reſolved that a new Parliament be ſummoned to appeare the 25 day of <hi>April</hi> 1660. and that the Lords Commiſſioners for the great Seal do iſſue forth Writs for Elections of Knights, Citizens, and Burgeſſes, and Barons of the Cinque<g ref="char:EOLhyphen"/>ports, with the Members thereof, and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> to ſit and ſerve in Parliament returnable the ſaid 25 day of <hi>April</hi> 1660.</p>
+                  <p>Ordered that it be referred to a Com<g ref="char:EOLhyphen"/>mittee to prepare qualifications. for Members to ſit and ſerve in Parliament, who are to meet this afternoon in the In<g ref="char:EOLhyphen"/>ner Court of Wards, and bring in the qualifications on Friday next, the firſt bu<g ref="char:EOLhyphen"/>ſineſſe, nothing to intervene.</p>
+                  <p>Reſolved that the names of the She<g ref="char:EOLhyphen"/>riffs be preſented to the Parliament for their Conſideration, the firſt buſineſs to
+<pb n="14" facs="tcp:168782:9"/>morrow morning nothing to intervene.</p>
+                  <p>Reſolved that Mr. <hi>Faunt</hi> Sheriffe of the County of <hi>Leiceſter,</hi> be and is hereby diſcharged from his Impriſonment.</p>
+                  <p>Sr. <hi>Gilbert Gerard</hi> reports, that he ac<g ref="char:EOLhyphen"/>quainted the Lord Mayor and Aldermen of London with the Reſolves of the Par<g ref="char:EOLhyphen"/>liament made yeſterday according to the command of the Parliament, &amp; that they returned their humble thanks to the Parliament for their reſpects to the City.</p>
+                  <p>Reſolved that the Knights and Bur<g ref="char:EOLhyphen"/>geſſes of every County be added to the Committee for nominating Iuſtices of Peace.</p>
+                  <p>Ordered that Mr. <hi>Swen</hi> &amp; Coll. <hi>Iohn Birch</hi> be added to the Committee of the Army.</p>
+                  <p>Ordered that a Committee be ap<g ref="char:EOLhyphen"/>pointed to go to the Lord Mayor, Alder<g ref="char:EOLhyphen"/>men and Common Councill of the City of London to confer with them about the advance of ſuch ſums of moneys, as they
+<pb n="15" facs="tcp:168782:9"/>conceive neceſſary upon ſecurity of the Aſſeſſements for the Army: for the pre<g ref="char:EOLhyphen"/>ſent ſupply of the Army and Navy.</p>
+                  <p>Reſolved, that the City be deſired to advance money, and that the Aſſeſſement be ſecurity for repayment of the ſaid money.</p>
+                  <p>Ordered, that Letters be written and ſigned by Mr. Speaker to the Commiſſio<g ref="char:EOLhyphen"/>ners of the Aſſeſſement for the Army in the City of London, and to the Com<g ref="char:EOLhyphen"/>miſſioners for the reſpective Counties to quicken the paying in of the Aſſeſſement.</p>
+                  <p>Ordered, that a Committee be ap<g ref="char:EOLhyphen"/>pointed to bring in an Act for repealing the Act appointing the forme of a writ for Members to ſit and ſerve in Parliament.</p>
+                  <p>Reſolved, that the Gates, Percullyces and Poſts of the City of London be made up at the publick charge of the State.</p>
+                  <p>Ordered, that the Houſe do proceed to morrow morning at ten of the clock
+<pb n="16" facs="tcp:168782:10"/>to the Election of the Councill of State, and that the Members of this Houſe doe prepare their names accordingly.</p>
+                  <p>Ordered, that Mr. <hi>Serjeant Maynard</hi> do bring in an Act for repeal of the Act, con<g ref="char:EOLhyphen"/>ſtituting Commiſſioners for management of the Army.</p>
+                  <p>Ordered, that Mr. <hi>Wheeler</hi> doe bring in a Commiſſion to conſtitute Generall <hi>George Monck</hi> Capt. Generall under the Parliament of all the Land Forces in <hi>En<g ref="char:EOLhyphen"/>gland, Scotland</hi> and <hi>Ireland</hi>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are to be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="25" facs="tcp:168782:10"/>
+                  <head>
+                     <hi>Numb.</hi> 3. A PERFECT DIURNAL Of every dayes Proceedings in PARLIAMET.</head>
+                  <head type="sub">
+                     <hi>Thurſday,</hi> 23 Febr. 1659.</head>
+                  <p>Ordered,</p>
+                  <p>THat Sir <hi>William Man,</hi> Sir <hi>John Boys,</hi> Mr, <hi>Sumner,</hi> now Priſoners in <hi>Dover</hi> Caſtle; and all other perſons who ſtand committed onely for tendering an Addreſs or Declaration for a Free Parliament, be diſcharged of their Im<g ref="char:EOLhyphen"/>priſonment: And that all Warrants for appre<g ref="char:EOLhyphen"/>hending perſons for making any ſuch Declarations or Addreſſes, be null and vacated.</p>
+                  <p>Reſolved, That no private buſineſs be admit<g ref="char:EOLhyphen"/>ted during the ſitting of this Parliament.</p>
+                  <p>That an Act be brought in, for repealing of the
+<pb n="18" facs="tcp:168782:11"/>Acts for ſetling the Militiaes in the ſeveral Counties, Cities and Boroughes of this Common<g ref="char:EOLhyphen"/>wealth.</p>
+                  <p>
+                     <hi>Reſolved upon the Queſtion by the Parlament,</hi> That all the Militiaes in the reſpective Counties, and the Powers given to them, be and are hereby revoked, and that the Le<g ref="char:EOLhyphen"/>vying of any Men, Moneys, Hor<g ref="char:EOLhyphen"/>ſes or Armes be forborn: And this Vote be forthwith Printed and Publiſhed, and ſent down into the reſpective Counties, Cities and Bo<g ref="char:EOLhyphen"/>roughs: And that the reſpective Members of the ſeveral Counties do ſend them into the ſeveral
+<pb n="19" facs="tcp:168782:11" rendition="simple:additions"/>Counties by the Poſt this night.</p>
+                  <p>That a Committee be appoint<g ref="char:EOLhyphen"/>ed to bring in an Act for ſetling the Militiaes in the ſeveral Coun<g ref="char:EOLhyphen"/>ties.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the Vote con<g ref="char:EOLhyphen"/>ſtituting. Mr. <hi>Scot</hi> Secretary of State, be repealed, and is hereby vacated and made void.</p>
+                  <p>A Draught of a Letter to be ſigned by Mr. Speaker, and ſent to the Commiſsioners for the Aſ<g ref="char:EOLhyphen"/>ſeſſments to expedite the bringing in of the Aſſeſſments, was read and approved, and it is Ordered, that <hi>Mr.</hi> Speaker ſign the ſame.</p>
+                  <pb n="20" facs="tcp:168782:12"/>
+                  <p>Several Aldermen and Common Council-men of the City of <hi>London</hi> attended the Parliament; and being called in Alderman <hi>Fowke</hi> delivered himſelf in a Speech to them; wherein he congra<g ref="char:EOLhyphen"/>tulated them in reference to their happy U nion, and the return of the Members to the diſcharge of their Truſt; And having inſiſted upon ſome other things, he came to deſire them that the Mi<g ref="char:EOLhyphen"/>litia of the City might be ſetled, and preſented them with the Names of the Commiſſioners of the Militia, the Liſt whereof followeth:</p>
+                  <list>
+                     <head>The Names of the Commiſſioners for the <hi>Militia</hi> of the City of <hi>London.</hi>
+                     </head>
+                     <item>The Lord Major, <hi>Thomas Alleyn.</hi>
+                     </item>
+                     <item>The Sheriffs for the Time being.</item>
+                     <item>Alderman <hi>Atkins</hi>
+                     </item>
+                     <item>Alderman <hi>Foote</hi>
+                     </item>
+                     <item>Alderman <hi>Fowke</hi>
+                     </item>
+                     <item>Alderman <hi>Viner</hi>
+                     </item>
+                     <item>Alderman <hi>Thompſon</hi>
+                     </item>
+                     <item>Alderman <hi>Robinſon</hi>
+                     </item>
+                     <pb n="21" facs="tcp:168782:12"/>
+                     <item>Alderman <hi>Bateman</hi>
+                     </item>
+                     <item>Alderman <hi>Lawrence</hi>
+                     </item>
+                     <item>Alderman <hi>King</hi>
+                     </item>
+                     <item>Alderman <hi>Bolton</hi>
+                     </item>
+                     <item>Alderman <hi>Wale</hi>
+                     </item>
+                     <item>Col <hi>Bromfeild</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>Richard Ford</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Major <hi>Chamberlaine</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>William Bateman,</hi> Eſq; Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>John Jolley,</hi> Eſq; Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Major <hi>Jo. Taylor</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Deputy <hi>Antrobus</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Deputy <hi>Staines</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Mr. <hi>John Wynne</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>Theoph. Biddulph</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Capt. <hi>Storie</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Capt. <hi>Johnſon</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>Mr Sanders</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>Tho. Bludworth</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>Maximill. Beard</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Major <hi>Cox</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Major <hi>Eardly</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <pb n="22" facs="tcp:168782:13"/>
+                     <item>Deputy <hi>Lenthall, Gower,</hi> Eſq; Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>Peter Mills</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>Nicholas Penning</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>Capt. <hi>Cleggat</hi> Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                     <item>
+                        <hi>William Vincent,</hi> Eſq; Common-Coun<g ref="char:EOLhyphen"/>cil-men.</item>
+                  </list>
+                  <p>
+                     <hi>The Aldermen and Common Coun<g ref="char:EOLhyphen"/>cilmen being again called in, The Speaker returned them the hearty thanks of the Houſe, and told them that they had approved of their Com<g ref="char:EOLhyphen"/>miſsioners for the Militia.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſolved upon the Queſtion by the Parlament,</hi> That Tueſday next be ſet apart for a Day of Thankſgi<g ref="char:EOLhyphen"/>ving to the Lord, to be obſerved by the Parliament in <hi>Margrets</hi>
+                     <pb n="23" facs="tcp:168782:13"/>Church <hi>Weſtminſter,</hi> for the hap<g ref="char:EOLhyphen"/>py Union of the Parlament, and the Returne of the Members of Parlament to the Diſcharge of their Truſt.</p>
+                  <p>
+                     <hi>Ordered by the Parlament,</hi> That Mr. <hi>Calamy</hi> be deſired to aſsiſt in carrying on the Work of Thankſ<g ref="char:EOLhyphen"/>giving at <hi>Margarets</hi> Church <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> before the Parlament on Tueſday next. And Mr. <hi>Anneſly</hi> is deſired to give Mr. <hi>Calamy</hi> notice hereof.</p>
+                  <p>The Houſe proceeded to the Nomination of a Council of State, which are as followeth.</p>
+                  <pb n="24" facs="tcp:168782:14"/>
+                  <list>
+                     <head>The Names of the Council of State.</head>
+                     <item>Gen. <hi>George Monck.</hi>
+                     </item>
+                     <item>Lord St. <hi>John.</hi>
+                     </item>
+                     <item>Mr. <hi>Pierrepoint.</hi>
+                     </item>
+                     <item>Sir <hi>William Lewis.</hi>
+                     </item>
+                     <item>Mr. <hi>Crew.</hi>
+                     </item>
+                     <item>Col. <hi>Roſsiter.</hi>
+                     </item>
+                     <item>Mr. <hi>Knightley.</hi>
+                     </item>
+                     <item>Col. <hi>Popham.</hi>
+                     </item>
+                     <item>Col. <hi>Morley.</hi>
+                     </item>
+                     <item>Sir <hi>Gilbert Gerard.</hi>
+                     </item>
+                     <item>Sir <hi>Anth. Aſhley-Coop.</hi>
+                     </item>
+                     <item>Lord <hi>Widdrington.</hi>
+                     </item>
+                     <item>Mr. <hi>Evelyn</hi> of <hi>Wilts.</hi>
+                     </item>
+                     <item>Gen. <hi>Montague.</hi>
+                     </item>
+                     <item>Sir <hi>John Temple.</hi>
+                     </item>
+                     <item>Col. <hi>Waeley.</hi>
+                     </item>
+                     <item>Lord <hi>Fairfax.</hi>
+                     </item>
+                     <item>Col. <hi>Norton.</hi>
+                     </item>
+                     <item>Sir <hi>John Holland.</hi>
+                     </item>
+                     <item>Mr. <hi>Anneſley.</hi>
+                     </item>
+                     <item>Col. <hi>Thompſon.</hi>
+                     </item>
+                     <item>Mr. <hi>Hollis.</hi>
+                     </item>
+                     <item>Mr. <hi>Trever.</hi>
+                     </item>
+                     <item>Sir <hi>Harebotle Grimſton.</hi>
+                     </item>
+                     <item>Sir <hi>John Potts.</hi>
+                     </item>
+                     <item>Sir <hi>William Waller.</hi>
+                     </item>
+                     <item>Col. <hi>Birch.</hi>
+                     </item>
+                     <item>Mr. <hi>Weaver.</hi>
+                     </item>
+                     <item>Mr. <hi>Swinfen.</hi>
+                     </item>
+                     <item>Mr. Serjeant <hi>Maynard.</hi>
+                     </item>
+                     <item>Sir <hi>Richard Anſlow.</hi>
+                     </item>
+                  </list>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>D. Maxwel,</hi> in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards</hi> Caſtle.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="25" facs="tcp:168782:14"/>
+                  <head>
+                     <hi>Numb.</hi> 4 A PERFECT DIURNAL: OR The dayly Proceedings IN PARLIAMENT</head>
+                  <head type="sub">
+                     <hi>Friday</hi> 24. Feb.</head>
+                  <opener>
+                     <salute>Courteous Reader,</salute>
+                  </opener>
+                  <p>YOu are deſired to take notice, that yeſter<g ref="char:EOLhyphen"/>day being the 24. <hi>Feb.</hi> there was a Printed Pamphlet in imitation of this Book, as if done by the ſame hand: and that it is both falſe in it ſelf, and the Title forged to deceive: Therefore the continuation of this which is the Extracts from the Original, you are conſtantly to expect from the Printer hereof.</p>
+                  <pb n="26" facs="tcp:168782:15"/>
+                  <p>Ordered, that Mr. <hi>Manton</hi> be deſired to be aſſi<g ref="char:EOLhyphen"/>ſting, in carrying on the work of publick thanks<g ref="char:EOLhyphen"/>giving before the Parliament, on Tueſday next at <hi>Margarets</hi> Church <hi>Weſtminſter,</hi> for the union of the Parliament, and reſtoring the Members hereof to the diſcharge of their truſt, and that Coll. <hi>Leigh</hi> do give him notice accordingly.</p>
+                  <p>A Bill Conſtituting <hi>George Monck</hi> Eſquire, to be Captain Generall and Commander in chief of all the land Forces in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> was this day read the firſt and ſecond time, and up<g ref="char:EOLhyphen"/>on the Queſtion committed unto a Committe, who are to meet this afternoon at two of the clock in the Speakers Chamber, with power to ſend for perſons papers, and what otherwiſe may be of con<g ref="char:EOLhyphen"/>cernment to that buſineſſe.</p>
+                  <p>Reſolved that Coll. <hi>Hutchinſon</hi> be diſcharged from being Sheriff of the County of <hi>Nottingham,</hi> and that <hi>Iohn Rayner</hi> Eſq; be Sheriff of that Coun<g ref="char:EOLhyphen"/>ty according to former order.</p>
+                  <p>Reſolved that Coll. <hi>Crook</hi> be diſcharged from being Sheriff for the County of <hi>Oxford.</hi>
+                  </p>
+                  <p>Reſolved that the Sheriffs appointed for the County of <hi>York</hi> do ſtand.</p>
+                  <p>Reſolved that <hi>Edward Williams</hi> Eſq; be and is nominated and apppointed Sheriff for the County of <hi>Breeknock.</hi>
+                  </p>
+                  <pb n="27" facs="tcp:168782:15"/>
+                  <p>Reſolved that the Sheriffs for the laſt year, not otherwiſe altered by the Parlia<g ref="char:EOLhyphen"/>ment this day, doe continue Sheriffs, un<g ref="char:EOLhyphen"/>til the Parliament take further order.</p>
+                  <p>The Amendments to the Bill for conti<g ref="char:EOLhyphen"/>nuing the Cuſtomes &amp; Exciſe, was twice read and agreed unto.</p>
+                  <p>Reſolved, that <hi>Nathaniel Manton</hi> be and is hereby conſtituted and appointed one of the Commiſſioners for Exciſe in the place of Mr. <hi>Bulſtrod,</hi> and that Mr. <hi>Bulſtrod</hi> be and is hereby diſcharged from being a Commiſſioner for the Exciſe.</p>
+                  <p>Reſolved that Capt. <hi>Stone,</hi> be and is hereby conſtituted and appointed one of the Commiſſioners for appeals in the place of Capt. <hi>Adam Baynes,</hi> and that Capt. <hi>Adam Baynes</hi> be and is hereby diſcharged from being a Commiſſioner for appeals.</p>
+                  <p>Reſolved, that Mr. <hi>Scowen</hi> be and is hereby conſtituted one of the Commiſ<g ref="char:EOLhyphen"/>ſioners
+<pb n="28" facs="tcp:168782:16"/>for appeals, in the place of <hi>Luke Robinſon</hi> Eſq; and that the ſame Mr. <hi>Luke Robinſon</hi> be &amp; is hereby diſcharged from being a Commiſſioner of appeals.</p>
+                  <p>Reſolved, that <hi>Iervace Bennet</hi> Eſq; be and is here<g ref="char:EOLhyphen"/>by conſtituted one of the Commiſſioners for Ap<g ref="char:EOLhyphen"/>peals in the place of Dr. <hi>VVilliam Barker,</hi> and that Dr. <hi>VVilliam Barker</hi> be and is hereby diſcharged from being a Commiſſioner of Appeals.</p>
+                  <p>Reſolved, that the Commiſſioners, Collectors and Governours of the Exciſe and Cuſtomes in <hi>Ireland</hi> ſhall continue untill the 24. of Iune 1660.</p>
+                  <p>Reſolved, that the Bill for the conti<g ref="char:EOLhyphen"/>nuing of the Cuſtomes and Exciſe be en<g ref="char:EOLhyphen"/>groſſed and brought in the firſt buſineſs, nothing to intervene.</p>
+                  <p>Reſolved, that the Aſſeſſement for the Army ſhall be the ſecurity to be given to the Lord Mayor, Aldermen &amp; Common-Council of the City of London, for the moneys which ſhall be advanced by them for the uſe of the Army and Navy.</p>
+                  <pb n="29" facs="tcp:168782:16"/>
+                  <p>Reſolved, that an Act be brought in for ſettlement of the Aſſeſſements for the Ar<g ref="char:EOLhyphen"/>my, as their ſecurity accordingly.</p>
+                  <p>Reſolved, that the Quorum of the Commiſſioners for the Militia of the City of London be nine.</p>
+                  <p>Reſolved, that Alderman <hi>Viner,</hi> and Alderman <hi>Robinſon</hi> be nominated Trea<g ref="char:EOLhyphen"/>ſurers in the ſaid Act, for receipt of the ſaid moneys, to repay the ſaid moneys to be advanced as aforeſaid.</p>
+                  <p>The Committee for Qualifications of Members to be Elected to ſit and ſerve in Parliament made their Report.</p>
+                  <p>Reſolved, that the Debate upon the ſaid Qualifications be taken into con<g ref="char:EOLhyphen"/>ſideration, on Munday morning next.</p>
+                  <p>The Houſe adjourned untill three of the clock.</p>
+                  <div type="part">
+                     <pb n="30" facs="tcp:168782:17"/>
+                     <head>
+                        <hi>Friday</hi> 24. <hi>Feb. Afternoon.</hi>
+                     </head>
+                     <p>A Bill for holding an Aſſize for the County of <hi>Lancaſter,</hi> was this day read the firſt and ſecond time, and committed.</p>
+                     <p>Reſolved that Mr. <hi>Molineux</hi> be Sheriff for the County of <hi>Lan<g ref="char:EOLhyphen"/>caſter.</hi>
+                     </p>
+                     <p>Ordered that it be referred to a Committee to conſider of the Chamberlain of <hi>Northwales,</hi> and of the Seal there, and report their opinion herein to the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>The Bill for repealing an Act conſtituting Commiſſioners for
+<pb n="31" facs="tcp:168782:17"/>government of the Army, was this day read the firſt, ſecond, and third time, and upon the Queſti<g ref="char:EOLhyphen"/>on paſſed.</p>
+                     <p>Reſolved that this be the Ti<g ref="char:EOLhyphen"/>tle to this Act, viz. <hi>An Act making voyd the Acts appointing Commiſsioners for government of the Army, and for making</hi> Charles Flectwood <hi>Eſquire Commander in chief of the Land Forces.</hi>
+                     </p>
+                     <p>Ordered that this Act be forthwith printed and publiſh<g ref="char:EOLhyphen"/>ed.</p>
+                     <p>The Houſe likewiſe read the Bill for conſtituting a Council of State, and ordered the ſaid Bill to be engroſſed.</p>
+                     <pb n="32" facs="tcp:168782:18"/>
+                     <p>Reſolved that a Bill be brought in on Munday next for the diſ<g ref="char:EOLhyphen"/>ſolving of the Parliament, and that a Committee do prepare and bring in the ſaid Bill according<g ref="char:EOLhyphen"/>ly.</p>
+                     <p>Reſolved that the Bill conſti<g ref="char:EOLhyphen"/>tuting <hi>George Monck</hi> Eſquire Capt Generall, and Commander in chief of all the I and Forces in <hi>England, Scotland,</hi> and <hi>Ireland</hi> be engroſſed.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1650.</p>
+                  <p>And are to be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="33" facs="tcp:168782:18"/>
+                  <head>
+                     <hi>Numb.</hi> 5 A PERFECT DIURNAL: OR The dayly Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Saturday</hi> 25. Feb.</head>
+                  <p>A Bill engroſſed for conſtitu<g ref="char:EOLhyphen"/>ting <hi>George Monck</hi> Eſq; Capt. Generall and Com<g ref="char:EOLhyphen"/>mander in Chief under the Par<g ref="char:EOLhyphen"/>liament, of all the Land Forces in
+<pb n="34" facs="tcp:168782:19"/>
+                     <hi>England, Scotland,</hi> and <hi>Ireland,</hi> was this day read the third time.</p>
+                  <p>Reſolved, That this be the Ti<g ref="char:EOLhyphen"/>tle of this Act, Viz. <hi>An Act conſti<g ref="char:EOLhyphen"/>tuting</hi> George Monck <hi>Eſq; Capt. General and Commander in Chief under the Parliament of all the Land Forces in</hi> England, Scotland, <hi>and</hi> Ireland, and the ſaid Act being put to the queſtion, paſſed.</p>
+                  <p>Ordered, that Sr <hi>William Wheeler,</hi> Sr <hi>Iohn Temple</hi> and Mr. <hi>Raleigh</hi> do carry this Commiſſion to his Excellency Generall <hi>George Monck.</hi>
+                  </p>
+                  <p>A Bill for ſettling the Honnors and Mannors of Hampton Court, and other Lands upon Generall <hi>George Monck</hi> and his heirs, which was this day read the firſt time.</p>
+                  <pb n="35" facs="tcp:168782:19"/>
+                  <p>Ordered, that this Bill be read the ſe<g ref="char:EOLhyphen"/>cond time on Munday morning the firſt buſineſſe.</p>
+                  <p>A Bill engroſſed conſtituting a Coun<g ref="char:EOLhyphen"/>cil of State, and Inſtructions given to the ſaid Council was this day read the third time.</p>
+                  <p>Reſolved, that this be the Title of this Act, viz. <hi>An Act for conſtituting a Council of State,</hi> and the ſaid Act being put to the queſtion paſſed.</p>
+                  <p>Reſolved, that <hi>William Love</hi> Alderman and Sheriff of <hi>London,</hi> upon his own de<g ref="char:EOLhyphen"/>ſire and requeſt, be and is hereby diſchar<g ref="char:EOLhyphen"/>ged from being one of the Commiſſioners of the Cuſtomes, and that <hi>Edward Wigate</hi> Eſquire, be and is hereby conſtituted one of the Commiſſioners for the Cuſtomes in the place of the ſaid <hi>William Love.</hi>
+                  </p>
+                  <p>A Bill engroſſed for continuance of the Cuſtomes was this day read the third time.</p>
+                  <pb n="36" facs="tcp:168782:20"/>
+                  <p>Reſolved that Col. <hi>Iohn White</hi> be diſ<g ref="char:EOLhyphen"/>charged from being a Commiſſioner for the Cuſtomes, and that Mr. <hi>Swinfin</hi> be and is hereby conſtituted a Commiſſioner in the place of the ſaid <hi>Iohn White.</hi>
+                  </p>
+                  <p>Reſolved that Mr. <hi>Harrington</hi> be and is hereby diſcharged from being one of the Commiſſioners for the Cuſtomes, &amp; that Mr. <hi>Samuel Vaſsalls</hi> be &amp; is hereby conſtitu<g ref="char:EOLhyphen"/>ted one of the Commiſſioners for the Cu<g ref="char:EOLhyphen"/>ſtomes in the place of the ſaid Mr. <hi>Har<g ref="char:EOLhyphen"/>rington.</hi>
+                  </p>
+                  <p>And the ſaid Bill ſo amended being put to the queſtion paſſed.</p>
+                  <p>Ordered, that this Act be forthwith printed and publiſhed.</p>
+                  <p>Reſolved that all the Circuits for the Lent Aſſiſes, for the ſeverall Counties of this Commonwealth, be and are hereby put off.</p>
+                  <pb n="37" facs="tcp:168782:20"/>
+                  <p>Ordered that Commiſſioners of Oyer and Terminer, and Goal delivery, do iſ<g ref="char:EOLhyphen"/>ſue under the great Seal to the Iuſtices of peace in the reſpective Counties of this Commonwealth, and that the Lords Commiſſioners for the great Seal do iſſue forth Commiſſions accordingly.</p>
+                  <p>The Houſe read the Humble Petition of the poor maymed Soldiers, Widdows and Orphans at <hi>Ely Houſe</hi> and the <hi>Sa<g ref="char:EOLhyphen"/>voy.</hi>
+                  </p>
+                  <p>Ordered, that this Petition be referred to a Committee to examine the buſineſſe, and to conſider how the caſe ſtands, with the Petitioners, and how the two thou<g ref="char:EOLhyphen"/>ſand pound formerly granted unto them, and their Pentions for the future may be paid and ſatisfied, and report their opi<g ref="char:EOLhyphen"/>nion to the Parliament on Munday mor<g ref="char:EOLhyphen"/>ning.</p>
+                  <p>Ordered, that a Committee do pre<g ref="char:EOLhyphen"/>pare
+<pb n="38" facs="tcp:168782:21"/>a Proclamation declaring the grounds and reaſons for putting off the Circuits for this time.</p>
+                  <p>Ordered, that it be referred to the Council of State to give directions that the ſtreets before <hi>Whitehall</hi> be repaired, and that they ſee that the Surveyors be paid, and ſatisfie the disburſment for re<g ref="char:EOLhyphen"/>pair thereof.</p>
+                  <p>Ordered, that <hi>Peter Brook,</hi> Col. <hi>Hol<g ref="char:EOLhyphen"/>land, Henry Brooker and</hi> Col. <hi>Charles White,</hi> be diſcharged of their impriſonment, and that the ſequeſtrations of their Eſtates be ſuſpended, and that the Commiſſioners for ſequeſtration be and are hereby required to forbear any further procee<g ref="char:EOLhyphen"/>dings touching the ſequeſtration of the Eſtates of them, or any of them.</p>
+                  <p>A Pardon for <hi>Iames Pyper, Samuel Eden, Richard Iackman, Winifrid Iones</hi> Wife of <hi>Edward Iones, Wil<g ref="char:EOLhyphen"/>liam Love, Henry Warner, Iane Odford, Will. Auck<g ref="char:EOLhyphen"/>land,
+<pb n="39" facs="tcp:168782:21"/>William Hele, Iohn Chriſtopher, Agnes Hake<g ref="char:EOLhyphen"/>wood, Iohn Norris, Samuel Warren,</hi> otherwiſe <hi>Pul<g ref="char:EOLhyphen"/>ling, Ioane Skinner</hi> Wife of <hi>William Skinner, Iohn Brodrip, Henry Sanſon,</hi> otherwiſe <hi>Chippet, Gregory Sanſon, Iohn Hunt, Richard Green, Nicholas Watts</hi> and <hi>Iohn Watts;</hi> and the Iudges Certificate of the Crimes of which they were convicted were read, and the ſaid Pardon upon the Queſtion agreed unto.</p>
+                  <p>And it is Ordered, That the Lords Commiſſio<g ref="char:EOLhyphen"/>ners for cuſtody of the Great Seal, do paſſe the ſaid Pardon for them, and every of them, under the Great Seal of <hi>England.</hi>
+                  </p>
+                  <p>Ordered, That the Sheriffs and Iuſtices of Peace for the reſpectiue Counties, wherein the ſaid <hi>Wini<g ref="char:EOLhyphen"/>frid Iones, William Love, Iohn Chriſtopher, Iohn Brodrip, Henry Sanſon,</hi> otherwiſe <hi>Chippet, Gregory Sanſon,</hi> otherwiſe <hi>Chippet, Iohn Hunt, Rich. Green, Nicholas Watts</hi> and <hi>Iohn VVatts,</hi> do ſend the fore<g ref="char:EOLhyphen"/>perſons into Foreign Parts or Plantations, according to the Iudges Certificate.</p>
+                  <p>Ordered, That Iuſtice <hi>Newdigate</hi> do give order for the execution of <hi>Edward Weeks</hi> convict for Ro<g ref="char:EOLhyphen"/>bery according to Law.</p>
+                  <p>The Committee unto whom it was referred to draw up a Proclamation, declaring the grounds and reaſons for putting off Circuits for this time, re<g ref="char:EOLhyphen"/>ports the draught thereof, which being read, was
+<pb n="40" facs="tcp:168782:22"/>a greed unto, and Ordered to be forthwith Prin<g ref="char:EOLhyphen"/>ted and Publiſhed: which followeth.</p>
+                  <p>
+                     <floatingText xml:lang="eng" type="proclamation">
+                        <body>
+                           <head>The <hi>PROCLAMATION.</hi>
+                           </head>
+                           <p>
+                              <hi>THe Parliament, for divers weighty reaſons to them appearing, do Declare and Order, That the Circuits for the holding of Aſsiſes and Trialls of</hi> Niſi Prius <hi>for the ſeveral Counties of</hi> England <hi>and</hi> Wales <hi>be not held this preſent Vacation of</hi> Lent, 1659. <hi>And that all perſons be diſcharged of their atten<g ref="char:EOLhyphen"/>dance thereon: and that this Order be forthwith Printed, and ſent down to the reſpective Sheriffs, that notice may be taken thereof.</hi>
+                           </p>
+                        </body>
+                     </floatingText>
+                  </p>
+                  <p>Ordered, That the Bill for the <hi>Militia</hi> be repor<g ref="char:EOLhyphen"/>ted on Munday morning the firſt buſineſſe.</p>
+                  <p>Ordered, That the Committee touching Qualifi<g ref="char:EOLhyphen"/>cations be revived, and ſit this afternoon, and that they conſider of Qualifications, as wel as of perſons that are to give Votes in Election, as of the perſons to be Elected,</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are to be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="41" facs="tcp:168782:22"/>
+                  <head>
+                     <hi>Numb.</hi> 6 A PERFECT DIURNAL: OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Munday</hi> 27. Feb.</head>
+                  <p>ORdered that the Sequeſtrations of the eſtates of <hi>Robert Pier<g ref="char:EOLhyphen"/>point</hi> be ſuſpended, and that the Commiſſioners for ſequeſtrations do for<g ref="char:EOLhyphen"/>bear to proceed therein untill further or<g ref="char:EOLhyphen"/>der, and that the ſaid <hi>Robert Pierpoint</hi> be
+<pb n="42" facs="tcp:168782:23"/>and is hereby alſo diſcharged from any impriſonment or reſtraint.</p>
+                  <p>Ordered, that <hi>Earneſtus Biron</hi> and Mr. <hi>Malcome Smith</hi> priſoners in the gatehouſe be diſcharged of their impriſonment, and that the Sequeſtration of their eſtates be ſuſpended, untill the Parliament take further order.</p>
+                  <p>Ordered that <hi>Will. Cork, Timothy Cork,</hi> and <hi>Michael Bret</hi> Iunior, Sir <hi>Thomas Mid<g ref="char:EOLhyphen"/>dleton,</hi> and <hi>Thomas Middleton</hi> his ſon, and the other perſons who were taken upon ſurrender of <hi>Chirk</hi> Caſtle, have their li<g ref="char:EOLhyphen"/>berty, and that the ſequeſtrations of their eſtates be ſuſpended, and that the Com<g ref="char:EOLhyphen"/>miſſioners for ſequeſtration do forbear any further to proceed in the ſequeſtra<g ref="char:EOLhyphen"/>tions of their ſaid eſtates, untill the Par<g ref="char:EOLhyphen"/>liament take further order.</p>
+                  <p>Reſolved, that the Votes of the 17. of <hi>Septemb.</hi> 1659. touching the diſſolving and disincorporating of the City of <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi>
+                     <pb n="43" facs="tcp:168782:23"/>and for making voyd their Charter, and that the County Palatine of <hi>Cheſter</hi> be no diſtinct Iuriſdiction, be vacuated and made null and voyd.</p>
+                  <p>Ordered that the ſequeſtrations of the eſtates of Mr. <hi>Thomas Fanshaw</hi> and Sir <hi>Thomas Leventhorp</hi> be ſuſpended untill the Parliament take further order.</p>
+                  <p>Reſolved that <hi>William Lenthal</hi> Speaker of the Parliament, be and is hereby con<g ref="char:EOLhyphen"/>ſtituted Chamberlain of <hi>Cheſter,</hi> and Chanceller of the County Palatine of <hi>Lancaſter.</hi>
+                  </p>
+                  <p>Reſolved, that an Act be brought in for reviving the juriſdiction of <hi>Cheſter</hi> and <hi>Lancaster,</hi> and that a Committee do bring in the ſaid Act accordingly.</p>
+                  <p>Ordered that the Lord <hi>Kilmurry</hi> and his brother Mr. <hi>Thomas Needham</hi> Mr. <hi>Sper<g ref="char:EOLhyphen"/>ten</hi> and Mr. <hi>Reinald Lacy</hi> be diſcharged of their impriſonment, and that the ſeque<g ref="char:EOLhyphen"/>ſtration of their eſtates be ſuſpended un<g ref="char:EOLhyphen"/>till
+<pb n="44" facs="tcp:168782:24"/>further order, and that it be referred to a Committee to conſider who are in priſon and upon what account, and who are fit to be diſcharged of their impriſon<g ref="char:EOLhyphen"/>ment, and the ſequeſtration of their e<g ref="char:EOLhyphen"/>ſtates to be ſuſpended, who are to meet this afternoon in the inner Court of Wards, and to report their opinion forth<g ref="char:EOLhyphen"/>with to the Parliament.</p>
+                  <p>A Report of an Oath to be taken by the Officers attending the Council of State, which was read.</p>
+                  <p>Reſolved, that the Parliament doth approve of the ſaid Oath, and that the Council of State, or any three of them, be and are hereby impowred and autho<g ref="char:EOLhyphen"/>rized to adminiſter the ſaid Oath to the reſpective officers and miniſters appoint<g ref="char:EOLhyphen"/>ed to attend the Council of State accor<g ref="char:EOLhyphen"/>dingly.</p>
+                  <p>A Report was alſo made from the Councill of State of a Proclamation, which was this day read the firſt and ſecond time and agreed unto, which followeth.</p>
+                  <pb n="45" facs="tcp:168782:24"/>
+                  <p>
+                     <floatingText xml:lang="eng" type="proclamation">
+                        <body>
+                           <head>By the Parliament.</head>
+                           <p>The Parliament being deſirous that good order and diſcipline may be ſtill continued in the Army, to the end that the ſoldiers thereof may not any wiſe be an oppreſſion to the Country, and where as divers Officers of the Army whoſe Regiments Troops and Companies are quartered in ſeverall Counties of this Nation, do ſtill continue hereabout the Town, &amp; abſent from their reſpective charges; doth therefore hereby require all ſuch Officers of the Army forthwith to repaire to their reſpective charges, and not to depart from them without ſpe<g ref="char:EOLhyphen"/>ciall order from the Lord Generall, and in caſe that any of the Regiments, Troops, or Companies of the Army are removed from their quarters laſt aſ<g ref="char:EOLhyphen"/>ſigned them without order from the Lord Ge<g ref="char:EOLhyphen"/>nerall, the Parliament doth require ſuch Regiments Troops &amp; Companies to return forthwith to their ſaid laſt quarters formerly aſſigned them, or to ſuch other quarters as ſhall be aſſigned them by dire<g ref="char:EOLhyphen"/>ctions from the Lord Generall: and the Parliament doth further require that ſuch Regiments Troops or Companies, as are not removed doe continue in the quarters laſt aſſigned unto them, and none of them to remove from thence without the ſpeciall Order of the Lord Generall in that behalf.</p>
+                           <closer>
+                              <hi>Ordered by the Parliament that this Proclama<g ref="char:EOLhyphen"/>tion be forthwith Printed and Publiſhed,</hi>
+                              <signed>Tho. St. Nicolas Clerk of the <hi>Parliament.</hi>
+                              </signed>
+                           </closer>
+                        </body>
+                     </floatingText>
+                  </p>
+                  <pb n="46" facs="tcp:168782:25"/>
+                  <p>Ordered, that all Sheriffs of the reſpective Coun<g ref="char:EOLhyphen"/>ties within this Commonwealth, and all Mayors and other head Officers of the reſpective Corpora<g ref="char:EOLhyphen"/>tions and Burroughs within the ſame, be and are hereby required to proclaime the ſaid Proclama<g ref="char:EOLhyphen"/>tion in their reſpective Counties and Burroughs,</p>
+                  <p>Ordered that the Councill of State do take care, to ſee that this Proclamation be proclaimed, and the ſaid Order put in Execution accordingly:</p>
+                  <p>
+                     <hi>Vpon a Report from the Councill the Houſe</hi>
+                  </p>
+                  <p>RESOLVED,</p>
+                  <p>That this Houſe doth agree with the Councill of State, that liberty be given to the Councill of State, in caſe of ſpeciall exigencies for the publick ſafety to ſeize and ſecure any perſon or perſons, that they ſhall have juſt grounds to ſuſpect, to carry on any deſignes of publick danger, though ſuch Perſon or Perſons be for the preſent Members of Parliament.</p>
+                  <p>A clauſe ingroſſed in Parliament was tendered to this Bill in theſe words, whether it be by pretence or colour of Authority from Charles Stewart, Son of the late King, or from any ſingle Perſon whatſoever or otherwiſe: and the queſtion being put that this clauſe be read, it paſſed with the Negative. And the ſaid Act being put to the queſtion paſſed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That Sir <hi>Iohn Temple</hi> do make Report of the ſtate of the Navy, and that the ſame be taken into conſideration on <hi>Wedneſdry</hi> next, upon a Report of an Information given to the Council of State which was read.</p>
+                  <p>The Houſe Reſolved, That Sir <hi>Iohn Seymer</hi> a Member be diſ<g ref="char:EOLhyphen"/>charged of his impriſonment, and every other Member of Par<g ref="char:EOLhyphen"/>liament, reſtrained by Collonell <hi>Okey</hi> be diſcharged of their impriſonment and reſtraint, and that the matters in this Report concerning the Citie of <hi>Briſtol,</hi> and the ſafetie and peace of the Nation be referred to the Council of State to do herein as they ſhall think fit.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the Information given concerning Coll <hi>Okey</hi> be re<g ref="char:EOLhyphen"/>ſerred to the Council of State to examine the ſame, and Report their Opinion therein to the Parliament.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That it be referred to the Council of State to diſpoſe of the Poſt-Office for the beſt ad<g ref="char:EOLhyphen"/>vantage of the Commonwealth.</p>
+                  <pb n="47" facs="tcp:168782:25"/>
+                  <p>The humble Petition of <hi>VVilliam VVithering</hi> Eſ<g ref="char:EOLhyphen"/>quire was read.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the Petition of Mr. <hi>VVithering</hi> be referred to the Councill of State to examine the matters of fact, and alſo to hear all parties claiming intereſt in the ſaid Poſt Office, and to examine their reſpective intereſt to the ſaid Poſt Office, and to State matters of Fact, and report their opinion therein to the Parliament.</p>
+                  <p>Vpon a Report from the Council of of State, the Houſe Reſolved that <hi>Iohn Thompſon</hi> Eſquire, be one of the Secretaries of State.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That <hi>Iohn Thurloe</hi> Eſquire be appointed another Secretary of State.</p>
+                  <p>A Bill for ſettling the Honors and Mannors of <hi>Hampton Court,</hi> and other Lands upon his Excel<g ref="char:EOLhyphen"/>cy <hi>George Monck</hi> and his Heirs, was this day read the ſecond time.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That there be a full addition of Lands to the Lands mentioned in this Bill.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That this Bill be committed upon the whole Debate with the former Vote to the former Committee.</p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to the Committee, to whom the Bill for ſettling Lands on Generall <hi>George Monck</hi> is referred, to conſider how the Title of the Hamper Office ſtands, and if they find the Title to be clere in the ſtate, that the ſame be con<g ref="char:EOLhyphen"/>ferred on Dr. <hi>Clergius:</hi> But if it appears that the Ti<g ref="char:EOLhyphen"/>tle is not clear in the ſtate, that then the ſaid Com<g ref="char:EOLhyphen"/>mittee
+<pb n="48" facs="tcp:168782:26"/>conſider of ſome other Office to be confer<g ref="char:EOLhyphen"/>ed on the ſaid Dr. <hi>Clergius,</hi> and report their opinion therein to the Parliament.</p>
+                  <p>A Bill for diſſolving this preſent Parliament was this day read the firſt time.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That this Bill be red the ſecond time on <hi>VVedneſday</hi> morning next.</p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to the Committe that brought in the Bill for diſſolving the Parliament, to bring in a form of a Writt for Elections of Mem<g ref="char:EOLhyphen"/>bers to ſit and ſerve in Parliament, and how and in what manner the new Parliament ſhall be ſummo<g ref="char:EOLhyphen"/>ned, and that they Report their opinion herein to the Parliament with all ſpeed.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the Houſe at the ariſing be ad<g ref="char:EOLhyphen"/>journed untill <hi>Wedneſday</hi> morning next, ſaving power to all the Committees to ſit notwithſtanding the ſaid Adjournment.</p>
+                  <p>An Act for the ſettling the <hi>Militia's</hi> in the reſpe<g ref="char:EOLhyphen"/>ctive Counties of this Common wealth was this day read the firſt time.</p>
+                  <p>
+                     <hi>Ordered,</hi> That this Bill be read the ſecond time on <hi>Wedneſday</hi> morning next, the firſt buſineſs nothing to interveen.</p>
+                  <p>
+                     <hi>Ordered,</hi> That <hi>Iohn Vaughan</hi> Eſq; be and is hereby diſcharged from being Sheriffe of the County of <hi>Caernavan</hi> ſo this next year, and that <hi>Rowland Gwinn</hi> Eſq; be Sheriffe for the ſaid County of <hi>Caernavan</hi> for this next year, and that the Lords Commiſſioners for the great Seal of <hi>England,</hi> doe paſs a Pattent or Commiſſion for him to be She<g ref="char:EOLhyphen"/>riff of the ſaid County accordingly.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovets. Court</hi> in <hi>Pator-Noſter-Row.</hi> 1660.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="49" facs="tcp:168782:26"/>
+                  <head>
+                     <hi>Numb.</hi> 7. A PERFECT DIURNAL OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Wedneſday,</hi> 29. Febr. 1659.</head>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>THat the Thanks of this Houſe be given unto Mr. <hi>Calamy</hi> for his great pains taken yeſterday in <hi>Margarets</hi> Church <hi>Weſtminſter,</hi> in carrying on the work of Thankſgiving for the Union
+<pb n="50" facs="tcp:168782:27"/>of the Parliament, and reſtoring the Members of Parliament to the diſcharge of their truſt; and that he be deſired to print his Sermon.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the thanks of this Houſe be given unto Mr. <hi>Manton</hi> for his great pains taken yeſterday in car<g ref="char:EOLhyphen"/>rying on the work of thankſgiving at <hi>Margarets</hi> Church <hi>Weſtminſter,</hi> for the union of the Parliament, and reſtoring the Members to the diſcharge of their truſt, and that he be deſired to print his Sermon.</p>
+                  <pb n="51" facs="tcp:168782:27"/>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That Sir <hi>Gilbert Gerard,</hi> and Colonel <hi>Lee,</hi> do give them the thanks of the Houſe accordingly.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That it be referred to a Com<g ref="char:EOLhyphen"/>mittee, to conſider of ſetling of Miniſters, and of all matters con<g ref="char:EOLhyphen"/>cerning <hi>Religion</hi> and the <hi>Confeſsion of Faith,</hi> and preſent their opinions herein to the Parliament what they think fit to be done, by <hi>Friday</hi> next, who are to meet this afternoon at two of the clock, in the Speakers chamber.</p>
+                  <pb n="52" facs="tcp:168782:28"/>
+                  <p>An Act for ſecurity and repay<g ref="char:EOLhyphen"/>ment of ſuch ſumms of money as ſhall be advanced by the Lord Mayor, Aldermen and Commons of the City of <hi>London,</hi> was this day read the firſt and ſecond time, and committed unto a Committee, who are to meet in the <hi>Inner Court of Wards</hi> this afternoon at two of the clock.</p>
+                  <p>A Bill for ſetling the <hi>Militia</hi> of the City of <hi>London</hi> and the Liber<g ref="char:EOLhyphen"/>ties thereof, was this day read the firſt and ſecond time.</p>
+                  <pb n="53" facs="tcp:168782:28"/>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That Major General <hi>Brown</hi> be inſerted into the Bill one of the Commiſsioners for the <hi>Militia</hi> of the City of <hi>London.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That this Bill be committed unto a Committee, who are to meet this afternoon at two of the clock in the Exchequer-chamber, and all that come to have Voices.</p>
+                  <p>A Bill for ſetling the Militia of the ſeveral Counties of <hi>England, Wales,</hi> and of <hi>Berwick</hi> upon <hi>Twede,</hi>
+                     <pb n="54" facs="tcp:168782:29"/>was this day read the ſecond time, and committed to the ſame Com<g ref="char:EOLhyphen"/>mittee, that the Bill for the Militia of the City of <hi>London</hi> is commit<g ref="char:EOLhyphen"/>ted.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Report of the Qualifi<g ref="char:EOLhyphen"/>cations of Members to ſit and ſerve in Parliament, be made to morrow morning at Ten of the Clock.</p>
+                  <p>The Bill declaring this preſent Parliament to be diſſolved, was this day read the ſecond time.</p>
+                  <pb n="55" facs="tcp:168782:29" rendition="simple:additions"/>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Committee to whom it is referred to conſider of the Form of Writs, do bring in an Act for ſetling the Form of Writs, and do alſo bring in a Clauſe in that Act to diſſolve this preſent Parliament, and that they bring it in on Friday next.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That further power be given to the Committee to whom it is refer<g ref="char:EOLhyphen"/>red to conſider of <hi>Matters of Re<g ref="char:EOLhyphen"/>ligion,</hi> and the <hi>Confeſsion of Faith,</hi> to conſider of ſuch Miniſters as are
+<pb n="56" facs="tcp:168782:30"/>in Livings upon Sequeſtrations, and of Miniſters ſequeſtred, and to ex<g ref="char:EOLhyphen"/>amine the buſineſs touching ſuch Miniſters in <hi>Wales,</hi> as have been put out of their Livings, and ſtate matters of Fact, and Report it to the Parliament.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb</hi> living in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards</hi> Caſtle, 1660.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="57" facs="tcp:168782:30"/>
+                  <head>
+                     <hi>Numb.</hi> 8 A PERFECT DIURNAL: OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Thurſday</hi> 1. March.</head>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>THat this morning the Houſe do receive Reports from the Com<g ref="char:EOLhyphen"/>mittee for Religion, and ſpend one hour therein every morning, and that Mr. Speaker do put the Houſe in mind thereof.</p>
+                  <pb n="58" facs="tcp:168782:31"/>
+                  <p>
+                     <hi>Ordered,</hi> that Sir <hi>Gilbert Gerard</hi> Knight be and is hereby conſtituted and ap<g ref="char:EOLhyphen"/>pointed <hi>Cuſtos Rotulorum</hi> for the County of <hi>Middleſex,</hi> to hold, exerciſe, and en<g ref="char:EOLhyphen"/>joy the ſaid office as fully and amply, a any perſon formerly might and ought to hold and execute the ſame.</p>
+                  <p>
+                     <hi>Ordered,</hi> That Coll. <hi>Norton,</hi> Sir <hi>Willi<g ref="char:EOLhyphen"/>am Lewis,</hi> Mr. <hi>Bulkley,</hi> Mr. <hi>Grove,</hi> Mr. <hi>Button,</hi> and Mr. <hi>Whitehead,</hi> be added Commiſſioners for cuſtody of the new Forreſt, for the preſervation of the tym<g ref="char:EOLhyphen"/>ber, Wood and Vert in the ſaid Forreſt, and that any four of the ſaid Committee be a Quorum.</p>
+                  <p>
+                     <hi>Ordered,</hi> That <hi>Iohn Alderton</hi> Mayor of <hi>Guilford, Henry Baldwyn,</hi> and <hi>Iohn How,</hi> be added Commiſſioners for the Aſſeſſe<g ref="char:EOLhyphen"/>ment for the County of <hi>Surrey,</hi> and the ſaid Commiſſioners be, and are hereby Authorized and required to ſit and act as Commiſſioners for the Affeſſements,
+<pb n="59" facs="tcp:168782:31"/>as fully to all intents and purpo<g ref="char:EOLhyphen"/>ſes, as if they had been named in the Act intituled <hi>An Act for rai<g ref="char:EOLhyphen"/>ſing a</hi> 100000 <hi>l. a moneth upon</hi> Eng<g ref="char:EOLhyphen"/>land, Scotland, <hi>and</hi> Ireland, <hi>for ſix moneths.</hi>
+                  </p>
+                  <p>A Bill for repeal of two Acts for Sequeſtrations, was this day read the firſt time.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That this Bill be now read the ſecond time, and upon the queſtion it was committed unto the Committee that brought in the ſaid Bill, who are to meet at two of the clock this afternoon in the Inner Court of Wards.</p>
+                  <pb n="60" facs="tcp:168782:32"/>
+                  <p>Upon a Report from the Committee, concerning diſtreſ<g ref="char:EOLhyphen"/>ſed Widdows, Orphans, Maimed Souldiers, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordered,</hi> That the ſumme of 2000 <hi>l.</hi> formerly ordered for re<g ref="char:EOLhyphen"/>lief of the poor Widdows, Or<g ref="char:EOLhyphen"/>phans, and Maimed Souldiers, be charged to be paid out of the firſt moneys that ſhall come into the Exchequer, other then the Cuſtomes and Exciſe.</p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to a Committee, to conſider how and in what manner the ſaid VViddows, Orphans, and Maim<g ref="char:EOLhyphen"/>ed Souldiers at <hi>Ely-houſe</hi> may be provided for and paid for the fu<g ref="char:EOLhyphen"/>ture,
+<pb n="61" facs="tcp:168782:32"/>with the leaſt prejudice, and moſt caſe to the Nation; and how a weekly revenue may be ſettled for their maintenance, and how the Maimed Souldiers may be diſpoſed of, ſo as the Nation may be eaſed of the charge, and how they may be provided of a preaching Miniſter. VVhich Committee are to meet this af<g ref="char:EOLhyphen"/>ternoon at two of the clock in the Exchequer Chamber.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the Committee of the poor Knights at <hi>Windſor</hi> be revived and joyned to the Committee touching the Widdows and maimed Souldiers at <hi>Ely</hi> Houſe and the <hi>Savoy.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to a Committee to take into conſideration the ſtate of the Revenues of the Commonwealth, and to preſent to the Par<g ref="char:EOLhyphen"/>liament what the charge of the Commonwealth is,
+<pb n="62" facs="tcp:168782:33"/>what Obſtructions hinder the bringing in the Re<g ref="char:EOLhyphen"/>venue, and how the Revenue may be managed for the beſt advantage of the Commonwealth, who are to meet in the Treaſurie-Chamber with power to ſend for perſons, papers, and what elſe may con<g ref="char:EOLhyphen"/>duce to the buſineſſe.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the ſeveral Commiſſioners for the Aſſeſſments in the ſeveral Counties, Cities and Borroughs of this Commonwealth do take ſpe<g ref="char:EOLhyphen"/>cial care to put the Act entituled <hi>An Act for an Aſ<g ref="char:EOLhyphen"/>ſeſsment of</hi> 100000. <hi>l. by the moneth, upon</hi> England, Scotland <hi>and</hi> Ireland <hi>for ſix monethes,</hi> in ſpeedy and effectual execution; and that the Members of Parliament who ſerve for the reſpective Counties, Cities and Burroughs, do ſend down this Order into the reſpective Counties, Cities and Burroughs, And that this Order be Printed and Publiſhed.</p>
+                  <p>The humble Petition of the ſurviving Warden and Aſſiſtants, with the Brethren of the <hi>Trinity</hi> Houſe of <hi>Deptford</hi> Strand, for relief of diſtreſſed Mariners, their Orphans and Widdows which are fallen into neceſſity, poverty and need, was read.</p>
+                  <p>
+                     <hi>Ordered,</hi> That this Petition be refer<g ref="char:EOLhyphen"/>red to a Committee to conſider of this petition, examine the buſineſſe, ſtate matters of fact, and Report their Opinion therein to the Parliament, who are to
+<pb n="63" facs="tcp:168782:33"/>meet this afternoon at three of the clock in the <hi>Dutchy</hi> Court.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the time of the diſſo<g ref="char:EOLhyphen"/>lution of this Parliament be at or before the fifteenth day of this inſtant <hi>March.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſolved,</hi> That after the buſineſſe con<g ref="char:EOLhyphen"/>cerning Religion be over, every morning the Houſe do proceed upon the Bill for ſettling the Militia untill it be fini<g ref="char:EOLhyphen"/>ſhed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the Members that doe ſerve for the ſeveral Counties, Cities and Burroughs do bring in the names of Commiſſioners for the Militia.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the Council of State have the truſt of ordering the Houſes, Forreſts, Chaſes and Parks belonging to the Commonwealth, and of diſpoſing the Care and Cuſtody thereof and of the places and ſervices relating thereunto, and of the Timber and Wood growing and being in any of the Forreſts, Chaſes
+<pb n="64" facs="tcp:168782:34"/>and Parks as ſhall be from time to time neceſſary for the beſt advantage of the Commonwealth.</p>
+                  <p>
+                     <hi>Ordered,</hi> That Sr. <hi>Anthony Ashley Coo<g ref="char:EOLhyphen"/>per</hi> be added a Commiſſioner for Cuſtody of <hi>New Forreſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordered,</hi> That a Committee do repair to the Lord Mayor, Aldermen and Com<g ref="char:EOLhyphen"/>mons of the City of <hi>London</hi> &amp; propound unto them the deſire of the Parliament that they will forth with advance ſo much monies as the Aſſeſſments for the City will amount unto for the preſent ſervice of the Army and Navy inſtead of the mo<g ref="char:EOLhyphen"/>ney by them offered to be advanced upon ſecurity of the Aſſeſſments.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are to be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="65" facs="tcp:168782:34"/>
+                  <head>
+                     <hi>Numb.</hi> 9. A PERFECT DIURNAL OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Friday, March</hi> 2. 1659.</head>
+                  <p>A Bill for approbation of Miniſters, before they be admitted to any publick Benefice, was this day reported from the Committe for Religion, read the firſt and ſecond time, and committed to the ſame Committee that brought in the Bill, with an addition of ſeveral Members thereunto, and with power to conſider of the Fees of the Regiſter, and to conſider of the Miniſters doing their duty, and the Committee is ordered to bring in the Bill with all convenient ſpeed.</p>
+                  <pb n="66" facs="tcp:168782:35"/>
+                  <p>The Confeſſion of Faith, preſented from the Aſſembly of Divines by Doctor <hi>Burgeſse,</hi> and o<g ref="char:EOLhyphen"/>thers of the Aſſembly, Friday the Five and twen<g ref="char:EOLhyphen"/>tieth day of September 1646. was reported and read.</p>
+                  <p>Reſolved, That the Houſe doth agree to this publick Confeſſion of Faith contained in all the Chapters, except the Thirty and thirty one Chap<g ref="char:EOLhyphen"/>ters.</p>
+                  <p>Ordered, That it be referred to the Commit<g ref="char:EOLhyphen"/>tee that brought in this Confeſſion, to bring in an Act declaring and owning this to be the publick Confeſſion of Faith, of the Church of <hi>England.</hi>
+                  </p>
+                  <p>Ordered, That the Thirtieth Chapter of Church Cenſures, and the One and thirtieth Chapter of Synods and Counſels be referred back to the ſame Committee that brought in the Confeſſion of Faith to conſider thereof, and to confer with ſuch per<g ref="char:EOLhyphen"/>ſons thereupon as they ſhall think fit, and preſent their opinion therein to the Parliament.</p>
+                  <p>Upon Report from the Council of State, that the Lord General <hi>Monck</hi> be Commiſſionated one of the Generals of the Fleet for the next Sum<g ref="char:EOLhyphen"/>mers expedition; And that Colonel <hi>Edward Moun<g ref="char:EOLhyphen"/>tague</hi> be one other of the Generals of the Fleet for the next Summers Expedition.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the Houſe doth agree with the Council of State, that the Lord General <hi>Monck</hi>
+                     <pb n="67" facs="tcp:168782:35"/>be Commmiſſionated one of the Generals of the Fleet for the next Summers expedition.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the Houſe doth agree with the Council of State, that Colonel <hi>Edward Moun<g ref="char:EOLhyphen"/>tague,</hi> be one other of the Generals of the Fleet, for the next Summers expedition, and that a Com<g ref="char:EOLhyphen"/>miſſion be prepared and granted to him accor<g ref="char:EOLhyphen"/>dingly.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That <hi>William Androſe</hi> of <hi>Bridgwater</hi> be a Commiſſioner for the Aſſeſsments in the County of <hi>Somerſet,</hi> in ſtead of <hi>Tho. Andrews</hi> mentioned by miſtake as a Commiſſioner for the ſaid County, in the Act of Aſſeſsments entituled, <hi>An Act for an Aſſeſsment of</hi> 100000 l. <hi>by the moneth upon England, Scotland and Ireland, for ſix moneths;</hi> And that the ſaid <hi>Tho. Andrews</hi> do forbear to act by vertue of the ſaid Act, and the ſaid <hi>William Androſe</hi> is hereby impowered and authoriſed to fit and act as a Commiſſioner for the Aſſeſsments as ſully to all intents and purpoſes as if he had been rightly named in the ſaid Act.</p>
+                  <p>
+                     <hi>Ordered,</hi> That <hi>Hugh Powell, Morgan Jones, James Penry, Rowland Lloyd, William Bowen</hi> and <hi>Thomas Powell</hi> be and are hereby nominated and appointed Commiſſioners for the Aſſeſsment in the County of <hi>Brecknock;</hi> And that they and every of them be and are hereby impowered and authoriſed to ſir and act as Commiſſioners for the Aſſeſsments
+<pb n="68" facs="tcp:168782:36"/>as fully to all intents and purpoſes, as if they had been named in the Act entituled, <hi>An Act for the Aſſeſsment of</hi> 100000 l. <hi>by the moneth upon England, Scotland and Ireland, for ſix moneths.</hi>
+                  </p>
+                  <p>The like Orders paſſed for Sir <hi>Francis Hollis</hi> Baronet to be one of the Commiſſioners for the Aſſeſsment in the County of <hi>Wilts</hi> and the County of <hi>Dorſet.</hi> For <hi>Robert Pemberton, Robert Ivory,</hi> and <hi>Robert How,</hi> for the Borough of <hi>S. Albans.</hi> For Cant. <hi>William Meredith, Richard Evans</hi> of <hi>Collenny, William Deere</hi> of <hi>Lluntrit Major, Nicholas Robin, Miles Matthew</hi> of <hi>Blaengwawre, Edward Jones</hi> of <hi>S. Michaelſton,</hi> and <hi>William Watkins</hi> for the County of <hi>Glamorgan.</hi> For <hi>Edward Exton, Nicholas Cle<g ref="char:EOLhyphen"/>ments, William Stanley, Peter Clungion,</hi> and <hi>Henry Pitt</hi> Aldermen, for the County of <hi>Southampton.</hi> For <hi>Thomas</hi> Lord Viſcount <hi>Wenman,</hi> Sir <hi>Thomas Spencer</hi> Baroner, Sir <hi>Thomas Penniſton</hi> Baronet, <hi>Thomas Cobb, Miles Fleetwood, Edward Clerk, George Crook, Crompion Read, Robert Dormer, Vincent Barry, George Greenwood,</hi> and <hi>Arthur Jones</hi> Eſquires, for the County of <hi>Oxford.</hi> For the Borough of <hi>Albrough</hi> in the County of <hi>Suffolk,</hi> the Bailiffs for the time being, <hi>Francis Bacon</hi> Re<g ref="char:EOLhyphen"/>corder, <hi>Richard Brown</hi> and <hi>William Skippon</hi> Gent. For the Corporation of <hi>Bury S. Edmonds</hi> in the County of <hi>Suffolk, John Southerby</hi> Eſq; Recorder, <hi>John Clark</hi> Eſq; <hi>John Moody</hi> Alderman, <hi>Thomas
+<pb n="69" facs="tcp:168782:36"/>Chaplin,</hi> and <hi>Jaſper Shepherd,</hi> Gent. For the County of <hi>Caermarthen,</hi> Sir <hi>Eraſmus Philips</hi> and Sir <hi>Edward Manſell</hi> Baronets, <hi>Edward Rice, Nicho<g ref="char:EOLhyphen"/>las Williams, James Jones, Thomas Gwyn, Iohn Powell</hi> the elder, <hi>Owen Price, Morgan Iones, Walter Iones, Thomas Evans, Humphrey Brown, Rawley Manſell, Owen Brickſtock, William Lloyd, Lewis Lloyd, Henry Manſell, Philip Vaughan,</hi> Captain <hi>William Slowman, Richard Lewis, Robert Birt</hi> 
+                     <abbr>Eſqs</abbr> the Mayor of <hi>Caermarthen</hi> pro tempore, <hi>An<g ref="char:EOLhyphen"/>thony Iones</hi> Alderman, <hi>Rowland Philips, Edward Doonligh, Iohn Price, Iohn Philips; Morgan Lloyd, Maurice Thomas, Mugulſtone Allen, Iohn Evans, Richard Williams, Iames Lewis,</hi> and <hi>Howell Philips.</hi>
+                  </p>
+                  <p>For the City of <hi>Sarum</hi> and Cloſe of the ſame, <hi>Robert Good, Iohn Holt</hi> 
+                     <abbr>Eſqs</abbr> For the County of <hi>Cardigan, James Lewis Junior; John Vaughan Ju<g ref="char:EOLhyphen"/>nior, Thomas Evans, William Lloyd of Bronwith, Will. Lloyd, Richard Jones, Reinold Jenkins</hi> 
+                     <abbr>Eſqs</abbr> 
+                     <hi>David Lloyd of Alt-yr-Odin, Thomas Powel, Howell Philips,</hi> and <hi>Thomas-Jenkins</hi> Gent.</p>
+                  <p>For the City of <hi>Weſtminſter,</hi> Sir <hi>Gilbert Gerard</hi> Baronet, Sir <hi>William Waller,</hi> Sir <hi>Anthony Erby,</hi> Sir <hi>William Plater,</hi> Sir <hi>William Wheeler,</hi> Knights, <hi>William Bell, Henry Peck,</hi> and <hi>Gabriel Beck</hi> 
+                     <abbr>Eſqs</abbr>
+                  </p>
+                  <p>The Houſe adjourned till two of the Clock in the afternoon.</p>
+                  <div type="part">
+                     <pb n="70" facs="tcp:168782:37"/>
+                     <head>Afternoon.</head>
+                     <p>The Houſe had under conſideration conſideration, the Bill for ſetling the Mi<g ref="char:EOLhyphen"/>litia, and made ſome further progreſs therein. They alſo paſſed an Act for ſe<g ref="char:EOLhyphen"/>curing the 27000 <hi>l.</hi> advanced by the Lord Mayor, and Commons of the City of <hi>London.</hi>
+                     </p>
+                     <p>
+                        <hi>Reſolved,</hi> That the Members of this Houſe be enjoined to take ſpecial care, that to the beſt of their Judgments, the Commiſſioners of the Militia which they preſent, be perſons well affected to the Cauſe of the Parliament.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Letters, and pub<g ref="char:EOLhyphen"/>lick diſpatches out of <hi>Ireland,</hi> which were brought by Colonel <hi>Iemple</hi> and others, and are directed to Mr. Speaker, be ſent to the Council of State, to conſider, and take order therein, and preſent their opi<g ref="char:EOLhyphen"/>nion therein to the Parkament, if they ſee cauſe.</p>
+                     <pb n="71" facs="tcp:168782:37"/>
+                     <p>
+                        <hi>Ordered,</hi> That the Council of State, do give order for payment of the 2000 <hi>l.</hi> to the poor Widdows, Orphans, and maimed Soldiers of <hi>Ely-Houſe,</hi> and the <hi>Savoy</hi> Hoſpital.</p>
+                     <p>The Committee to whom it was refer<g ref="char:EOLhyphen"/>red to conſider what Votes were fitting to be expunged, made Report of ſeveral Votes to be expunged.</p>
+                     <p>
+                        <hi>Reſolved,</hi> That the Parliament doth agree with the Committee, that the ſe<g ref="char:EOLhyphen"/>veral Orders made againſt <hi>Denzil Holles</hi> Eſq; touching his impeachment, and the excluſion of him out of the Parliament, be diſcha ged and obliterated.</p>
+                     <p>The like Order paſſed for expungiug the Votes againſt Sir <hi>Robert Pye,</hi> and Ma<g ref="char:EOLhyphen"/>jor <hi>Harley.</hi>
+                     </p>
+                     <p>The Houſe this day paſſed the Act for repealing of two Acts of Sequeſtration, and ordered it to be forthwith printed and publiſhed.</p>
+                     <pb n="72" facs="tcp:168782:38"/>
+                     <p>
+                        <hi>Reſolved,</hi> That Commiſſions be granted under the Great Seal, unto General <hi>George Monek,</hi> and General <hi>Edward Mountague,</hi> to be Generals of the Fleet for the next Semmers Expe<g ref="char:EOLhyphen"/>dition, and that the Commiſſioners for the Great Seal do paſs Commiſsions to them under the Great Seal of <hi>England</hi> accordingly.</p>
+                     <p>
+                        <hi>Reſolved,</hi> That General <hi>Edward Mountague</hi> do forthwith go to the Fleet.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb</hi> living in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards</hi> Caſtle, 1660.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="73" facs="tcp:168782:38"/>
+                  <head>
+                     <hi>Numb.</hi> 10 A PERFECT DIURNAL: OR The daily Proceedings in PARLIAMENT</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Saturday</hi> 3. March.</head>
+                  <opener>Ordered,</opener>
+                  <p>THat <hi>Charles,</hi> now Earl of <hi>Warwick,</hi> be and is hereby conſtituted <hi>Cu<g ref="char:EOLhyphen"/>ſtos Rotulorum</hi> for the County of <hi>Eſſex,</hi> to hold, exerciſe and enjoy, the ſaid Office in as full and ample manner to
+<pb n="74" facs="tcp:168782:39"/>all intents and purpoſes as any perſon or perſons formerly held and enjoyed the ſame.</p>
+                  <p>The Bill for reviving the juriſdictions of the Counties Palatine of <hi>Lancaſter</hi> and <hi>Chester,</hi> was this day read the firſt and ſe<g ref="char:EOLhyphen"/>cond time, and upon the queſtion, com<g ref="char:EOLhyphen"/>mitted with power to revive the <hi>Dutchy</hi> of <hi>Lancaſter:</hi> who are to meet on Munday at two of the Clock in the aftenoon in the <hi>Dutchie</hi> Court.</p>
+                  <p>A Letter from Colonel <hi>Whichcot</hi> from <hi>Windſor</hi> Caſtle, the 22 <hi>Feb.</hi> 1659. and a Warrant of the 27 of <hi>Novemb.</hi> 1656. ſigned <hi>He. Lawrence</hi> Preſident, directed to the Governour of <hi>Windſor</hi> Caſtle, to receive into his charge <hi>John</hi> Earl of <hi>Craw<g ref="char:EOLhyphen"/>ford Lindſey,</hi> and another Warrant, ſigned <hi>He. Lawrence</hi> Preſident, dated 17 <hi>Ian.</hi> 1656. directed to the Governour of <hi>Windſor</hi> Caſtle, to take into his charge the body of the Lord <hi>Sinclare:</hi> and ano<g ref="char:EOLhyphen"/>ther
+<pb n="75" facs="tcp:168782:39"/>Warrant dated 14 <hi>Ianuary,</hi> 1656. ſigned <hi>Oli<g ref="char:EOLhyphen"/>ver</hi> P. to detain and keep under impiſonment the body of the Earl of <hi>Liwtherdale,</hi> which were read.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the Earl of <hi>Crawford Lindſey</hi> the Earl of <hi>Lawderdale,</hi> and the Lord <hi>Sinclare,</hi> now priſoners in <hi>Windſor</hi> Caſtle, ſhall be diſcharged of their impriſonment, upon giving ſecurity to the Council of State, unto whom it is referred to take the ſame, not to act any thing prejudiciall to this Common-wealth.</p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to the Council of State, upon conference with the Generals at Sea, or either of them, to nominate and approve of all the Captains and Lieutenants to be imployed in the Navy, and that the Generals at ſea, or either of them, under the Seal of the Admiralty, do grant Commiſſions, unto ſuch Captains and Lieute<g ref="char:EOLhyphen"/>nants as they ſhall approve of accordingly, or in their abſence, to the Commiſſioners of the Ad<g ref="char:EOLhyphen"/>miralty.</p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to a Committee to ſend for Dr. <hi>Reynolds</hi> and Dr. <hi>Owen,</hi> and to examine the buſineſſe concerning Dr. <hi>Reynolds</hi> and Dr. <hi>Owen,</hi> touching the Deanary of Chriſt Church,
+<pb n="76" facs="tcp:168782:40"/>and that the Committee to ſtate matters of fact, and report it to the Parliament on Thurſday next, and that Dr. <hi>Owen</hi> be ſummoned forthwith to at<g ref="char:EOLhyphen"/>tend the ſaid Committee.</p>
+                  <p>
+                     <label>Ordered by the Parliament.</label> THat Sir <hi>William Roberts</hi> Knight, <hi>William Warren</hi> of <hi>Wapping</hi> Eſq; <hi>John Limbery</hi> &amp; <hi>VVilliam Northey</hi> 
+                     <abbr>Eſqrs</abbr> be and are hereby nomina<g ref="char:EOLhyphen"/>ted and appointed Commiſſio<g ref="char:EOLhyphen"/>ners for the Aſſeſſement in the County of <hi>Middleſex,</hi> and that they and every of them be and are hereby impowered and authori<g ref="char:EOLhyphen"/>zed to ſit and Act as Commiſſio<g ref="char:EOLhyphen"/>ners for the Aſſeſſements as fully to all intents and purpoſes, as if
+<pb n="77" facs="tcp:168782:40"/>they had been named in the Act Intitled, <hi>An Act for an Aſſeſſement of</hi> 100000 <hi>l. by the Moneth upon</hi> England, Scotland <hi>and</hi> Ireland, <hi>for ſix Moneths.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſolved,</hi> That General <hi>Mountague</hi> be and is hereby conſtituted and appointed one of the Commiſſioners for the Admi<g ref="char:EOLhyphen"/>ralty, and that he be and is hereby im<g ref="char:EOLhyphen"/>powered and authorized to act as one of the Commiſſioners for the Admiralty, as fully to all intents and purpoſes as any o<g ref="char:EOLhyphen"/>ther the Commiſſioners may or ought to doe.</p>
+                  <p>
+                     <hi>Ordered,</hi> That no perſons go as Chap<g ref="char:EOLhyphen"/>lains in any of the Ships, but Miniſters, or ſuch as ſhall be approved of by the Ge<g ref="char:EOLhyphen"/>nerals at Sea.</p>
+                  <pb n="78" facs="tcp:168782:41"/>
+                  <p>A Report was made of Monies char<g ref="char:EOLhyphen"/>ged on the Aſſeſſement, for the uſe of the Navy, and what have been received thereupon, and alſo an Eſtimate of the Debts of the Navy due unto the firſt of this inſtant <hi>March.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordered,</hi> That the Council of State, with the Generals at land and ſea, doe adviſe with the Committee of the Army, Commiſſioners of the Admiralty and Na<g ref="char:EOLhyphen"/>vy, and the Committee of the Revenue about the charge of the Debts of the Common-wealth, with the incomes, and to conſider how the Forces at land and ſea may be ſo retrencht, as that the char<g ref="char:EOLhyphen"/>ges may not exceed the incomes, and how the Debts may be ſatisfied, and Mo<g ref="char:EOLhyphen"/>nies proportioned betwixt the Armie and Navie.</p>
+                  <pb n="79" facs="tcp:168782:41"/>
+                  <p>Upon a Report from the Commiſſio<g ref="char:EOLhyphen"/>ners of the Admiralty and Navy, it was ordered that the Commiſſioners of the Admiralty and Navy, be and are hereby impowered to place Purſers in ſtead of Cheques and Stewards, if they ſee cauſe.</p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to the Commiſſioners of the Admiralty, to take care, and they are hereby impowered to bring the late Commiſſioners for Prize Goods to an accompt, for the Arrears re<g ref="char:EOLhyphen"/>maining in their hands, and alſo to get in ſuch monies as have been impreſſed by the late Committee for the Navy, or o<g ref="char:EOLhyphen"/>thers, to any perſon or perſons not yet accompted for, and that the Prize Goods be diſpoſed of, and imployed to the uſe of the Navy, and that the ſaid Commiſſioners for the Admiralty do al<g ref="char:EOLhyphen"/>ſo take care of ſuch Prizes as are or ſhall be brought in by the ſhips of this Com<g ref="char:EOLhyphen"/>monwealth,
+<pb n="80" facs="tcp:168782:42"/>and the Commiſſioners of the Admiraltie are hereby impowered to proceed in a ſummary way touching Mer<g ref="char:EOLhyphen"/>chants Ships of this Commonwealth, ſur<g ref="char:EOLhyphen"/>prized by the Enemy, and retaken by the States Frigats.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That Dr. <hi>Walker</hi> and Dr. <hi>Tur<g ref="char:EOLhyphen"/>ner</hi> onely, be Iudges of the Court of <hi>Ad<g ref="char:EOLhyphen"/>miralty</hi> and <hi>Probate of Wills.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſolved,</hi> That Dr. <hi>Wiſeman</hi> be Advo<g ref="char:EOLhyphen"/>cate of the Commonwealth, inſtead of Dr. <hi>Walker.</hi>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are to be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="81" facs="tcp:168782:42"/>
+                  <head>
+                     <hi>Numb.</hi> 11. A PERFECT DIURNAL OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Monday, March</hi> 5. 1659.</head>
+                  <p>AN Act declaring the <hi>Publique Confeſsion of Faith of the Church of England,</hi> was this day read the firſt, ſecond and third time, and paſſed: Ordered that it be forthwith printed and publiſhed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to Dr. <hi>Reynolds,</hi> Mr. <hi>Calamy,</hi> and Mr. <hi>Manton,</hi> to examine the ſame at the Preſs, and alſo to examine the Scriptures for proof of every Article, and inſert the ſame in the Margin of the Book.</p>
+                  <pb n="82" facs="tcp:168782:43"/>
+                  <p>
+                     <hi>Orderd,</hi> That Major <hi>Iohn Black<g ref="char:EOLhyphen"/>more</hi> be and is hereby diſcharged from being Sheriff of the County of <hi>Devon,</hi> and that the Gentlemen who ſerve for the ſaid County do preſently bring in Three Names, that out of the ſame the Parliament may approve of one to be Sheriff of the ſaid County.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the Sheriff for the County of <hi>Suſſex</hi> be diſcharged, and the New Sheriff be and is here<g ref="char:EOLhyphen"/>by approved of, and that he do forthwith ſue out his Patent.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That <hi>Edmund Waring</hi> Sheriff of <hi>Shropſhire,</hi> be diſcharged of being Sheriff, and that the Gen<g ref="char:EOLhyphen"/>tlemen
+<pb n="83" facs="tcp:168782:43"/>who ſerve for the ſaid County do preſent Three Names to morrow morning, out of which the Parliament may nominate one to be Sheriff of the ſaid County.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That Mr. <hi>Crowcher</hi> be diſcharged from being Sheriff of <hi>Hampſhire,</hi> and that the Mem<g ref="char:EOLhyphen"/>bers of Parliament who ſerve for the ſaid County do preſent the Names of Three Perſons to mor<g ref="char:EOLhyphen"/>row morning, out of which the Parliament may nominate and ap<g ref="char:EOLhyphen"/>prove one to be Sheriff.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the Members of Parliament do bring in the Names of Sheriffs to morrow morning,
+<pb n="84" facs="tcp:168782:44"/>for the approbation of the Parliament, in ſuch places where they deſire the old Sheriff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhould de diſcharged.</p>
+                  <p>
+                     <hi>Ordered,</hi> That a Proclamation do iſſue forth for putting all the Laws and Sta<g ref="char:EOLhyphen"/>tutes againſt Popiſh Recuſants, Prieſts and Jeſuites, in ſpeedy and effectual exe<g ref="char:EOLhyphen"/>cution; and that a Committee do bring in the Proclamation accordingly.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the ſumm of Twenty pounds ſhall be given by every Sheriff to ſuch perſon or perſons as ſhall diſcover any Popiſh Prieſt or Jeſuite, upon the Conviction of every ſuch Prieſt or Je<g ref="char:EOLhyphen"/>ſuite; and that the ſame ſhall be allowed to the reſpective Sheriffs upon their re<g ref="char:EOLhyphen"/>ſpective Accompts; and that the ſaid Reward be inſerted in the Proclamation.</p>
+                  <p>The humble Addreſs of the Mayor, Burgeſſes, and other Inhabitants of the Town of <hi>Lyme</hi> in the County of <hi>Dorſet,</hi> was read, which followeth.</p>
+                  <pb n="85" facs="tcp:168782:44"/>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <head>To the Right Honorable, the Commons of <hi>England</hi> Aſſembled in Parliament:</head>
+                        <opener>
+                           <signed>
+                              <hi>The humble Addreſs of the Mayor, Burgeſſes, and other Inhabitants of the Town of</hi> Lyme <hi>in the County of</hi> Dorſet.</signed> 
+                           <hi>Humbly ſheweth,</hi>
+                        </opener>
+                        <p>THat though we are a ſmall, and in our ſelves an inconſiderable People, yet it pleaſed the moſt wiſe and powerful God to make us among others inſtrumental for your preſervation from the violence of the late King, his evil Counſel<g ref="char:EOLhyphen"/>lors and their Adherents, before that illegal force of your own Armed Guards upon you in the year 1648. And we hope, in ſome degree and meaſure (according to our capacity) ſucceſsfully helpful for your late Reſtitution, which we have not only endeavored by our Prayers, but alſo by taking Arms for you, when yet we had but little, or no hope of effecting your Readmiſſion. And there<g ref="char:EOLhyphen"/>fore we have taken this boldneſs upon us of Ad<g ref="char:EOLhyphen"/>dreſſing our ſelves to this Honorable Houſe; that by ſo doing, we may manifeſt our diſlike of that long continued Force upon you, (the ſource and ſpring of all thoſe evils that have befallen
+<pb n="86" facs="tcp:168782:45"/>theſe almoſt ruined Nations) Our adhering to you in our affections whilſt under that force; Our cordial rejoycing in the wonderful providence of God ſhewed in your Reſtitution to ſit, and exer<g ref="char:EOLhyphen"/>ciſe the Truſt repoſed in you, (which we judge the onely probable means under God of healing our breaches, and reſtoring our paths to dwell in) Our revived hopes of much approaching good to theſe Nations by your wiſe and moderate Coun<g ref="char:EOLhyphen"/>ſels; Our unchangeable reſolution of adhering to you in the defence of your juſt Priviledges and Authority, with the uttermoſt hazard of our lives and fortunes; and to acquieſce in ſuch a ſettlement as your grave wiſdom ſhall judge beſt for us and theſe diſtreſſed Nations: For the effecting where<g ref="char:EOLhyphen"/>of, you ſhall not fail of the moſt importunate prayers of</p>
+                        <closer>
+                           <signed>Your faithful Servants to command.</signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <p>
+                     <hi>Reſolved,</hi> That the Thanks of the Parliament be given unto the Mayor, Burgeſſes, and other Inhabitants of the Town of <hi>Lyme;</hi> and that Mr <hi>Moore</hi> do give them the thanks of the Parliament accordingly.</p>
+                  <pb n="87" facs="tcp:168782:45"/>
+                  <p>The Houſe likewiſe agreed upon the Militia's of the Counties of <hi>Salop, War<g ref="char:EOLhyphen"/>wick, Norfolk, Devon, the</hi> City of <hi>Weſtminſter,</hi> the City of <hi>Exeter,</hi> the Borough of <hi>Southwark,</hi> and the places adjacent, <hi>Radnor, Somerſet,</hi> the County of <hi>York,</hi> City of <hi>Worceſter,</hi> the County of <hi>Gloucester,</hi> City and County of <hi>Glou<g ref="char:EOLhyphen"/>ceſter, Eſsex,</hi> City of <hi>Norwich,</hi> County of <hi>Lincoln</hi> and City and County of the ſame, County of <hi>Cambridge, Middleſex,</hi> County of <hi>Dorſet,</hi> the Town and County of <hi>Poole,</hi> the Hamlets of the Tower of <hi>London,</hi> County of <hi>Oxford</hi> and City of the ſame, County of <hi>Suſſex,</hi> County of <hi>Wilts,</hi> and the County of <hi>Cornwall.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordered,</hi> That ſuch Juſtices of the Peace who were formerly of the <hi>Quorum,</hi> And ſuch other Juſtices as the Commiſsioners for the Great
+<pb n="88" facs="tcp:168782:46"/>Seale ſhall think fit to nominate, any five, four, or three of them be of the <hi>Quorum,</hi> And the Lords Commiſsioners for the Great Seal are to iſſue forth Commiſsions ac<g ref="char:EOLhyphen"/>cordingly.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the <hi>SOLEMN LEAG<g ref="char:V">Ʋ</g>E AND CO<g ref="char:EOLhyphen"/>
+                        <g ref="char:V">Ʋ</g>ENANT</hi> be Printed and Publiſhed, and ſet up and forth<g ref="char:EOLhyphen"/>with Read in every Church, and alſo once every yeare according to former Order of Parliament, and that the ſaid Solemn League and Covenant be alſo ſet up in this Houſe.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb</hi> living in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards</hi> Caſtle, 1660.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="89" facs="tcp:168782:46"/>
+                  <head>
+                     <hi>Numb.</hi> 12 A PERFECT DIURNAL OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Tueſday</hi> 6. March.</head>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>THat <hi>Mathew Heale</hi> Eſq; be and is hereby nominated and approved of, to be Sheriffe for the County of <hi>Devon:</hi>
+                     <pb n="90" facs="tcp:168782:47"/>for the year enſuing, and that the Lords Commiſſioners for Cu<g ref="char:EOLhyphen"/>ſtody of the great Seale doe paſſe a Patent to him under the great Seale to be Sheriffe of the ſaid County of <hi>Devon:</hi> accordingly.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That <hi>William Okeley</hi> Eſq; be and is hereby nominated and ap<g ref="char:EOLhyphen"/>proved of, to be Sheriffe for the County of <hi>Salop,</hi> for the year enſuing, and that the Lords Commiſſioners for Cuſtody of the great Seale doe paſſe a Patent to him under the great Seale, to be Sheriffe of the ſaid County of <hi>Salop.</hi> accordingly.</p>
+                  <div type="part">
+                     <pb n="91" facs="tcp:168782:47"/>
+                     <head>The Petition of <hi>John Lambert</hi> major Generall was Read.</head>
+                     <p>Reſolved,</p>
+                     <p>That the Parliament doth ap<g ref="char:EOLhyphen"/>prove of what the Councill of State have done in committing of Collonel <hi>John Lambert</hi> to the Tower.</p>
+                     <p>Reſolved,</p>
+                     <p>That Sir <hi>Arthur Heſilrig</hi> doe attend the Parliament to morrow morning.</p>
+                     <p>Reſolved,</p>
+                     <p>That the Councill of State be injoyned to take ſpeciall care of the Safety and Peace of the Na<g ref="char:EOLhyphen"/>tion,
+<pb n="92" facs="tcp:168782:48"/>and to proceed vigorouſly in ſecuring ſuch perſons as they shall think dangerous to the Peace and ſafety of the Nation.</p>
+                     <p>Reſolved,</p>
+                     <p>That Colonel <hi>Overton</hi> be and is hereby diſcharged, from being Governor of <hi>Hull,</hi> and that his Commiſſion to be Governor there, and to be Colonel of a Re<g ref="char:EOLhyphen"/>giment of Foot be and are hereby revoked and made void.</p>
+                     <argument>
+                        <p>The Houſe adjourned untill three of the clock.</p>
+                     </argument>
+                  </div>
+                  <div type="part">
+                     <head type="sub">Afternoon.</head>
+                     <p>Ordered,</p>
+                     <p>That the Report touching the commiſſioners of the Cuſtomes
+<pb n="93" facs="tcp:168782:48"/>be made to morrow morning the firſt bu<g ref="char:EOLhyphen"/>ſineſs.</p>
+                     <p>The Houſe made a further progreſſe in the Militia's of the ſeverall Counties, and paſſed the Militia's of <hi>Surrey, Northwales, Southwales, Bedford, Carmarthen</hi> and <hi>Hert<g ref="char:EOLhyphen"/>ford.</hi>
+                     </p>
+                     <p>Mr. <hi>Speaker</hi> acquaints the Parliament, that divers perſons with ſtore of Armes are apprehended, and at the door.</p>
+                     <p>Reſolved,</p>
+                     <p>That the Serjeant doe detain the per<g ref="char:EOLhyphen"/>ſons taken with Armes untill the Coun<g ref="char:EOLhyphen"/>cill of State doe ſit, and that no body be permitted to ſpeak with them.</p>
+                     <p>The Houſe likewiſe paſſed the Militia's of <hi>Berks, Kent, Suffolk, Southampton, Not<g ref="char:EOLhyphen"/>tingham, Derby, Monmouth,</hi> the City of <hi>Briſtoll,</hi> the Town of <hi>Barwick, Stafford, Hereford,</hi> the Town of <hi>Southampton.</hi>
+                     </p>
+                     <pb n="94" facs="tcp:168782:49"/>
+                     <p>Reſolveth</p>
+                     <p>That the Earle of <hi>Bedford</hi> be and is hereby Conſtituted <hi>Cuſtos Rotulorum</hi> for <hi>Bedfordshire,</hi> to hold and enjoy the ſame in as full, and as ample a manner as any other perſon, or perſons formerly held or enjoyed the ſame, and that Coll. <hi>John Okey</hi> be and is hereby diſcharged from being <hi>Custos Rotalorum</hi> of the ſaid Coun<g ref="char:EOLhyphen"/>ty.</p>
+                     <p>Ordered,</p>
+                     <p>That the fortnights pay formerly or<g ref="char:EOLhyphen"/>dered to the Gent of <hi>Oxfordshire,</hi> be<g ref="char:EOLhyphen"/>forthwith paid unto them, and that the Committee for the Army doe take care to pay it.</p>
+                     <p>Ordered,</p>
+                     <p>That the Piſtols, Sadles, and other goods that were taken from the Lord <hi>Falkland</hi> in or ſince <hi>August</hi> laſt be reſtored to him and that he takes them where he finds them.</p>
+                     <pb n="95" facs="tcp:168782:49"/>
+                     <p>Reſolved,</p>
+                     <p>That Mr. <hi>Henry Ashurſt</hi> be added a Commiſſioner for the Militia of the City of <hi>London.</hi>
+                     </p>
+                     <p>Ordered,</p>
+                     <p>That William Beecher Eſq; Iohn Thompſon Eſq; Iohn Charnocke Eſq; Henry Cheſter Eſq; Oliver Luke Eſq; Sir William Palmer, Sir Thomas Alſton Baronnet, Iohn Alſton, Iohn Neale, Iohn Harvey, William Butler, Walter Rolt, Edward Cator Eſquiers, be and are here<g ref="char:EOLhyphen"/>by nominated and appointed Commiſ<g ref="char:EOLhyphen"/>ſioners for the Aſſeſſement in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Bedford,</hi> and that they and every of them be and are hereby impowred and Authorized, to ſit and Act as Commiſſio<g ref="char:EOLhyphen"/>ners for the Aſſeſſements, as fully to all intents and purpoſes, as if they had been named in the Act Intituled an Act for an Aſſeſſement of 100000 <abbr>l</abbr> by the Month, upon <hi>England, Scotland</hi> and <hi>Ireland</hi> for ſix Moneths.</p>
+                     <pb n="96" facs="tcp:168782:50"/>
+                     <p>Ordered,</p>
+                     <p>That if the Members, whoſoever for any County doe not preſent Commiſſioners for the Militia, that then the Gent. who ſerve for any other County, doe bring in Names to be incerted into the Bill.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are to be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="97" facs="tcp:168782:50"/>
+                  <head>
+                     <hi>Numb.</hi> 13. A PERFECT DIURNAL OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Wedneſday, March</hi> 7. 1659.</head>
+                  <p>THe Houſe had under conſideration the Bill for approbation of Mi<g ref="char:EOLhyphen"/>niſters, and agreed upon ſeverall Amendments to be made thereunto, and likewiſe referred it to a Committee to bring in a Clauſe to be inſerted in the ſaid Bill, to authoriſe and impower the
+<pb n="98" facs="tcp:168782:51"/>Approvers to delegate other perſons to approve Miniſters in ſeveral pla<g ref="char:EOLhyphen"/>ces of theſe Nations remote from <hi>London,</hi> for eaſe of the charge and trouble of Miniſters in making long Journeys, and intedious attendance to be approved, and other Clauſes upon the debate of the Houſe.</p>
+                  <p>The Houſe this day paſſed an Act for explanation of certain Clau<g ref="char:EOLhyphen"/>ſes and Proviſoes inan Act of this preſent Parliament, Entituled, <hi>An Act for the continuance of the Cuſtoms &amp; Exciſe,</hi> from the laſt of <hi>Feb.</hi> 1659. until the Twenty fourth day of <hi>June</hi> 1660. and ordered the ſame to be printed and publiſhed.</p>
+                  <pb n="99" facs="tcp:168782:51"/>
+                  <p>
+                     <hi>Ordered.</hi> That it be referred to the committee of the Revenue, to conſider of the duty of Priſage, and to ſettle the difference about the ſame, and report to the Parliament their Proceedings therein, and in caſe they cannot end the difference, then to ſtate the matter of Fact, and report it to the Parliament, with their opinion therein.</p>
+                  <p>Colonel <hi>Rich</hi> being brought to the Houſe door,</p>
+                  <p>The Houſe Reſolved,</p>
+                  <p>That colonel <hi>Rich</hi> be called in.</p>
+                  <p>A Letter from Colonel <hi>Ingoldsby</hi> from <hi>Bury,</hi> dated the fifth of <hi>March</hi>
+                     <pb n="100" facs="tcp:168782:52"/>1659. and an Information given in by Cornet <hi>Robert Thornback</hi> againſt colonel <hi>Rich,</hi> were reported from the Council of State, and read.</p>
+                  <p>Colonel <hi>Rich</hi> ſtanding up in his place, denied the charge laid againſt him, and ſaid, that he is a ſtranger to all repreſented.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That the Parliament doth ap<g ref="char:EOLhyphen"/>prove of what the Council of State have done concerning the commit<g ref="char:EOLhyphen"/>ment of Col. <hi>Rich,</hi> and bringing of him to the Parliament, being a Member of the Houſe.</p>
+                  <pb n="101" facs="tcp:168782:52"/>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That it be referred to the Coun<g ref="char:EOLhyphen"/>cil of State further to examine the whole matter charged againſt Col. <hi>Rich,</hi> and what elſe concerneth the buſineſs, and forthwith to ſtate matter of fact and report it to the Parliament.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That colonel <hi>Rich</hi> be and is here<g ref="char:EOLhyphen"/>by enjoined to attend the Council of State from time to time, upon exa<g ref="char:EOLhyphen"/>mination of this buſineſs.</p>
+                  <pb n="102" facs="tcp:168782:53"/>
+                  <p>Several Examinations are alſo reported from the Council of State, touching Sir <hi>Arthur Heſilrigg,</hi> and the whole matter thereupon depen<g ref="char:EOLhyphen"/>ding before the ſaid Council, touch<g ref="char:EOLhyphen"/>ing ſeveral Informations given in to the Council againſt Sir <hi>Arthur Heſilrig.</hi>
+                  </p>
+                  <p>Sir <hi>Arthur Heſilrig</hi> ſtanding up in his place, ſaid he was not guilty of any thing wherewith he is char<g ref="char:EOLhyphen"/>ged.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That this buſineſs concerning Sir <hi>Arthur Heſilrig</hi> be referred back to the Council further to examine
+<pb n="103" facs="tcp:168782:53"/>the buſineſs, and report it to the Parliament.</p>
+                  <p>The Houſe likewiſe proceeded in the Act for the Militia, and ap<g ref="char:EOLhyphen"/>proved of the Militia's for the coun<g ref="char:EOLhyphen"/>ty of <hi>Weſtmorland,</hi> county of <hi>Cum<g ref="char:EOLhyphen"/>berland,</hi> county of <hi>Cheſter,</hi> city of <hi>Cheſter,</hi> county of <hi>Bucks,</hi> and county of <hi>Durham.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Houſe doe proceed touching the Militia's to morrow morning, next after the buſineſs for Religion.</p>
+                  <pb n="104" facs="tcp:168782:54"/>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That the Parliament do pro<g ref="char:EOLhyphen"/>ceed only with matters of Religion, the Militia, the Qualifications, and the Writs.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb</hi> living in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards</hi> Caſtle, 1660.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="105" facs="tcp:168782:54"/>
+                  <head>
+                     <hi>Numb.</hi> 14 A PERFECT DIURNAL: OR The daily Proceedings in PARLIAMENT</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Thurſday</hi> 8. March.</head>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>THat the Bill for the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> be forthwith engroſſed and brought in to mor<g ref="char:EOLhyphen"/>row morning the firſt buſineſſe.</p>
+                  <pb n="106" facs="tcp:168782:55"/>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That Colonel <hi>Birch</hi> do re<g ref="char:EOLhyphen"/>port the reſt of the Names of the Commiſſioners for the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi>'s, as ſoon as he cometh into the Houſe.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Amendments to the Bill for the County Palatine of <hi>Lancaster,</hi> and Dutchy of <hi>Lanca<g ref="char:EOLhyphen"/>ſter,</hi> be reported to morrow mor<g ref="char:EOLhyphen"/>ning.</p>
+                  <p>The Amendments to the Bill for Approbation of Miniſters, was twice read, and upon the
+<pb n="107" facs="tcp:168782:55"/>Queſtion agreed unto.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the ſaid Bill be engroſ<g ref="char:EOLhyphen"/>ſed.</p>
+                  <p>A Proclamation for putting the Laws and Statutes againſt Ie<g ref="char:EOLhyphen"/>ſuites, Popiſh Prieſts and Recu<g ref="char:EOLhyphen"/>ſants in ſpeedy and effectuall exe<g ref="char:EOLhyphen"/>cution was read.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That it be referred to a Com<g ref="char:EOLhyphen"/>mittee, to bring in an effectuall ſhort Proclamation for putting the Laws and Statutes againſt Ie<g ref="char:EOLhyphen"/>ſuites Popiſh Prieſts, and Recu<g ref="char:EOLhyphen"/>ſants,
+<pb n="108" facs="tcp:168782:56"/>and that the Bill for ſet<g ref="char:EOLhyphen"/>tling the Revenue of Recuſants Lands be reported on Saturday morning next.</p>
+                  <p>The Houſe likewiſe agreed upon the Names of the Commiſ<g ref="char:EOLhyphen"/>ſioners of the <hi>Militia</hi>'s for the County of <hi>Northampton,</hi> for the County of <hi>Northumberland,</hi> for the County of <hi>Lancaſter,</hi> for the County of <hi>Rutland,</hi> for the County of <hi>Huntington,</hi> for the Town of <hi>Newcastle,</hi> for the County of <hi>Brocknock,</hi> for the County of <hi>Cardigan,</hi> for the County of <hi>Pembroke,</hi> and the the Town and City of <hi>Haverford</hi>-Weſt,
+<pb n="109" facs="tcp:168782:56"/>for the City of <hi>Oxford,</hi> for the City of <hi>Bristol.</hi>
+                  </p>
+                  <p>The Houſe likewiſe added ſe<g ref="char:EOLhyphen"/>verall Commiſſioners for the Counties following, <hi>viz.</hi> Kent, Devon, Bedford, Surrey, Eſſex, Berks, Hereford, Suffolk, Hamp<g ref="char:EOLhyphen"/>ſhire, Yorkſhire, Wiltſhire, Car<g ref="char:EOLhyphen"/>marthen, Oxfordſhire, Cumber<g ref="char:EOLhyphen"/>land, Norwich, Bedfordſhire, York City, Middleſex.</p>
+                  <p>The Commiſſioners Names for North-Wales, were likewiſe read and approved.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That all the Names of Com<g ref="char:EOLhyphen"/>miſſioners
+<pb n="110" facs="tcp:168782:57"/>for the <hi>Militia,</hi> be ingroſſed in the Bill.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That the <hi>Militia</hi> of <hi>London</hi> be paſſed in a diſtinct Bill by it ſelf, and that the Committee unto whom the Bill for the <hi>Militia</hi> of the City of <hi>London,</hi> be revived, and meet this Afternoon, and make their report to morrow morning.</p>
+                  <p>A Bill for calling and holding a Parliament the 25. of <hi>April</hi> 1660. was this day read the firſt time, and ordered to be read the ſecond time to morrow morning at ten of the clock.</p>
+                  <pb n="111" facs="tcp:168782:57"/>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That it be referred to the Gentlemen of <hi>Bucks</hi> to bring in the names of three perſons, out of whom the Parliament may Elect one to be Sheriff of the Coun<g ref="char:EOLhyphen"/>tx of <hi>Bucks.</hi>
+                  </p>
+                  <p>The humble Petition of Captain <hi>Iohn Stoaks</hi> late Commander in Chief of the Commonwealths-Fleet in the Mediter<g ref="char:EOLhyphen"/>ranean Seas was read.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Caſe of Capt. <hi>Iohn Stoaks</hi> be referred to the Court of Admiralty, and that they determine it according to Iu<g ref="char:EOLhyphen"/>ſtice and Equity, and that the proceed<g ref="char:EOLhyphen"/>ings at Law in the Upper Bench by <hi>Wi<g ref="char:EOLhyphen"/>liam Winter</hi> againſt the ſaid <hi>Iohn Stoaks</hi> be ſtayd in the mean time.</p>
+                  <p>Upon a Report concerning the Courts of Admiralty and probate of Wills,</p>
+                  <pb n="112" facs="tcp:168782:58"/>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That all fees and perquiſits payable to the Iudges of the Courts of Admiralty and Probate of Wills be reſerved and an<g ref="char:EOLhyphen"/>ſwered to the Commonwealth.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That the Power of granting admini<g ref="char:EOLhyphen"/>ſtrations and all other judicial ſentences be by both the Iudges for Probate of Wills, and not by one of the Iudges one<g ref="char:EOLhyphen"/>ly, and that no Iudicial Act or Sentence ſhall be granted by the ſaid Iudges but onely in the open Court.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter Rowe</hi> 1659.</p>
+                  <p>
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="113" facs="tcp:168782:58"/>
+                  <head>
+                     <hi>Numb.</hi> 15. A PERFECT DIURNAL OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Friday, March</hi> 9. 1659.</head>
+                  <p>A Proclamation for putting of all Laws and Statutes made againſt Seminary Prieſts, Je<g ref="char:EOLhyphen"/>ſuits, and Romiſh Prieſts in
+<pb n="114" facs="tcp:168782:59"/>ſpeedy and effectual execution, was this day reported, read the firſt and ſecond time, and or<g ref="char:EOLhyphen"/>dered to be ingroſſed.</p>
+                  <p>
+                     <hi>Ordered by the Parliament,</hi>
+                  </p>
+                  <p>That <hi>William Beecher, St. John Tompſon</hi> Eſquire, <hi>St. John Char<g ref="char:EOLhyphen"/>nock</hi> Eſquire, <hi>Henry Cheſter</hi> Eſq; <hi>Oliver Luke</hi> Eſquire, Sir <hi>William Palmer,</hi> Sir <hi>Thomas Alſton</hi> Knight and Baronet, <hi>John Alſton</hi> Eſquire, <hi>John Neale</hi> Eſquire, <hi>John Har<g ref="char:EOLhyphen"/>vey</hi> Eſquire, <hi>William Butler</hi> Eſq; <hi>Walter Rolt</hi> Eſq; <hi>Edward Caloe</hi> Eſq; <hi>Samuel Bedford,</hi> be and hereby
+<pb n="115" facs="tcp:168782:59"/>nominated and appointed Com<g ref="char:EOLhyphen"/>miſsioners for the Aſſeſsment in the County of <hi>Bedford,</hi> and that they and every of them be and are hereby impowered and authoriſed to ſit and act as Commiſsioners for the Aſſeſsments, as fully to all in<g ref="char:EOLhyphen"/>tents and purpoſes, as if they had been named in the Act entituled, <hi>An Act for an Aſſeſsment of One hundred thouſand pounds by the moneth, upon England, Scotland and Ireland, for ſix moneths.</hi>
+                  </p>
+                  <pb n="116" facs="tcp:168782:60"/>
+                  <p>
+                     <hi>Ordered by the Parliament,</hi>
+                  </p>
+                  <p>That the Bill for ſetling the Militia be forthwith exa<g ref="char:EOLhyphen"/>mined and brought in, and that it be read forthwith, after the ſame is examined and brought in.</p>
+                  <p>An Act for the calling and hold<g ref="char:EOLhyphen"/>ing of a Parliament at <hi>Weſtminſter</hi> the Five and twentieth day of <hi>April</hi> One thouſand ſix hundred and ſixty, was this day read the ſecond
+<pb n="117" facs="tcp:168782:60"/>time, and upon the Queſtion committed upon the Debate of the HOuſe to a Committee, who are appointed to meet this after<g ref="char:EOLhyphen"/>noon in the <hi>Speakers Chamber,</hi> conſiſting of a conſiderable num<g ref="char:EOLhyphen"/>ber of Members of the Houſe, and all the Gentlemen of the Long-Robe, and alſo all that will come to have Voices. And the ſaid Committee are further impowered to conſider of the foreſaid Qua<g ref="char:EOLhyphen"/>lifications, and to make ſuch ad<g ref="char:EOLhyphen"/>dition thereunto as is fit, and Re<g ref="char:EOLhyphen"/>port to the Houſe.</p>
+                  <pb n="118" facs="tcp:168782:61"/>
+                  <p>An Act for taking the Ac<g ref="char:EOLhyphen"/>compts, and redreſsing of Grie<g ref="char:EOLhyphen"/>vances concerning the Tythes and Churchlivings in <hi>Wales,</hi> and for the advancement of Religion and Learning there, was this day reported to the Houſe, from the Committee for Religion, and read the firſt and ſecond time, and com<g ref="char:EOLhyphen"/>mitted to the ſame Committee that brought it in, with an ad<g ref="char:EOLhyphen"/>dition of ſeveral Members unto the ſaid Committee.</p>
+                  <pb n="119" facs="tcp:168782:61"/>
+                  <p>The Qualifications of Mem<g ref="char:EOLhyphen"/>bers to ſit and ſerve in Parlia<g ref="char:EOLhyphen"/>ment formerly reported and read, were this day again read.</p>
+                  <p>Maſter Speaker acquainted the Parliament, that he had received Letters from the <hi>Sound.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the ſaid Letters be re<g ref="char:EOLhyphen"/>ferred to the Council of State, to take the ſame into conſiderati<g ref="char:EOLhyphen"/>on.</p>
+                  <pb n="120" facs="tcp:168782:62"/>
+                  <p>
+                     <hi>Reſolved upon the Queſtion by the Parliament,</hi>
+                  </p>
+                  <p>That the buſineſs of the <hi>Militia</hi> be taken into conſideration to mor<g ref="char:EOLhyphen"/>row morning the firſt buſineſs, no<g ref="char:EOLhyphen"/>thing to intervene.</p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb</hi> living in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards</hi> Caſtle, 1660.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="121" facs="tcp:168782:62"/>
+                  <head>
+                     <hi>Numb.</hi> 16 A PERFECT DIURNAL: OR The daily Proceedings in PARLIAMENT</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Saturday</hi> 10. March.</head>
+                  <p>A Bill for ſetling the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> for the City of <hi>London</hi> and Liberties thereof, was this day read the firſt and ſe<g ref="char:EOLhyphen"/>cond
+<pb n="122" facs="tcp:168782:63"/>time, and upon the Que<g ref="char:EOLhyphen"/>ſtion, committed.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That Alderman Major-Gene<g ref="char:EOLhyphen"/>ral <hi>Brown</hi>'s Name be placed in this Bill, next after Alderman <hi>Viner</hi>'s.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That the ſame Qualifications be incerted in this Bill, as they are in the generall Bill for ſetling the <hi>Militia.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That this Bill ſhall continue for one year, or untill the Parlia<g ref="char:EOLhyphen"/>ment take other order.</p>
+                  <pb n="123" facs="tcp:168782:63"/>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That the Bill for payment of certain Debts be brought in on Munday morning.</p>
+                  <p>The Amendments to the Bill for ſetling the <hi>Militia</hi> for the City of <hi>London</hi> were twice read, and upon the Queſtion, agreed unto.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That this Bill be engroſſed.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That Mr. <hi>Robert Diſer</hi> of <hi>Brau<g ref="char:EOLhyphen"/>hen</hi> Eſq; be and is hereby nomina<g ref="char:EOLhyphen"/>red and approved of to be Sheriff of the County of <hi>Hertford,</hi> and
+<pb n="124" facs="tcp:168782:64"/>that the Lords Commiſſioners for the Great Seal do paſſe a Pa<g ref="char:EOLhyphen"/>tent to him to be Sheriff of the County of <hi>Hertford</hi> accordingly.</p>
+                  <p>The Bill for ſettling the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> for <hi>England</hi> and <hi>Wales,</hi> was this day read the third time</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That <hi>Iohn Crew</hi> of <hi>Crew</hi> Hall be added a Commiſſioner for the <hi>Militia</hi> for the County of <hi>Che<g ref="char:EOLhyphen"/>ſter.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That <hi>Henry Aſhford</hi> do ſtand a Commiſſioner for the <hi>Militia</hi>
+                     <pb n="125" facs="tcp:168782:64"/>in the County of <hi>Devon.</hi>
+                  </p>
+                  <div type="part">
+                     <head>Afternoon.</head>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That Sir Eraſ. Philips, &amp; Sir Ed<g ref="char:EOLhyphen"/>ward Manſell Barr. Edward Rice, Nicholas Williams James Jones, Thomas Gwin, Iohn Powell the elder, Owen Price, Morgan Iones, Walter Jones, Thomas Evans, Humphry Brown, Rowland Manſell, Owen Brickſtock, Wil<g ref="char:EOLhyphen"/>liam Lloyd, Lewis Lloyd, Hen<g ref="char:EOLhyphen"/>ry Manſell, Philip Vaughan, Ca<g ref="char:EOLhyphen"/>ptain VVilliam Slowman, Ri<g ref="char:EOLhyphen"/>chard Lewis, Robert Birt <abbr>Eſqrs,</abbr> the Mayor of <hi>Caermarthen</hi> pro<g ref="char:EOLunhyphen"/>tempore,
+<pb n="126" facs="tcp:168782:65"/>Anthony Iones Alder<g ref="char:EOLhyphen"/>man, Rowland Philips, Edward Doonligh, Iohn Price, Iohn Philips, Morgan Lloyd, Mau<g ref="char:EOLhyphen"/>rice Thomas, Magulſtone Al<g ref="char:EOLhyphen"/>len, Iohn Evans, Richard Wil<g ref="char:EOLhyphen"/>liams, Iames Lewis, and Howell Philips Gent. be and are hereby nominated and appointed Com<g ref="char:EOLhyphen"/>miſſioners for the Aſſeſſement in the County of <hi>Caermarthen,</hi> and that they and every of them be and are hereby impowered and authorized to ſit and act as Com<g ref="char:EOLhyphen"/>miſſioners for the Aſſeſſements, as fully to all intents &amp; purpoſes, as if they had been named in the Act Intituled, An Act for an Aſſeſſement
+<pb n="127" facs="tcp:168782:65"/>of 100000 <hi>l.</hi> by the moneth, upon <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland</hi> and <hi>Ireland,</hi> for ſix moneths.</p>
+                     <p>The Houſe proceeded in the Bill for the Militia, &amp; added many perſons Com<g ref="char:EOLhyphen"/>miſſioners for the Militia in the ſeveral Counties of <hi>England</hi> and <hi>Wales.</hi>
+                     </p>
+                     <p>
+                        <hi>Reſolved</hi> That the Bill for the Militia of the City of <hi>Dondon</hi> be read on Munday morning next.</p>
+                     <p>
+                        <hi>The Names of the Commiſsioners in the ſaid Bill, are as followeth,</hi> viz.</p>
+                     <p>
+                        <hi>Thomas Alleyn</hi> Lord Mayor of the City of <hi>London.</hi>
+                     </p>
+                     <list>
+                        <head>The Lord Mayor and Sheriffs of the ſaid City for the time being:</head>
+                        <item>Alderman Atkins.</item>
+                        <item>Ald. Foot.</item>
+                        <item>Ald. Fowke.</item>
+                        <item>Ald. Tho. Viner.</item>
+                        <item>Ald. Brown.</item>
+                        <item>Ald. Wil. Thompſon.</item>
+                        <item>Ald. Robinſon.</item>
+                        <item>Ald. Bateman.</item>
+                        <item>Ald. Lawrence.</item>
+                        <item>Ald. King.</item>
+                        <item>Ald. Boulton.</item>
+                        <item>Ald. Wale.</item>
+                        <item>Col. Bromfield.</item>
+                        <item>Rich. Ford Eſq;</item>
+                        <item>Major Chamberlain.</item>
+                        <item>Wil. Bateman <abbr>Eſq.</abbr>
+                        </item>
+                        <pb n="128" facs="tcp:168782:66"/>
+                        <item>Iohn Iolly <abbr>Eſqrs</abbr>
+                        </item>
+                        <item>Wil. Vincent <abbr>Eſqrs</abbr>
+                        </item>
+                        <item>Wil. Antrobus <abbr>Eſqrs</abbr>
+                        </item>
+                        <item>Iohn Wynne <abbr>Eſqrs</abbr>
+                        </item>
+                        <item>Theo. Biddolph <abbr>Eſqrs</abbr>
+                        </item>
+                        <item>Tho. Stean <abbr>Eſqrs</abbr>
+                        </item>
+                        <item>Capt. Storey.</item>
+                        <item>Deputy Iohnſon.</item>
+                        <item>Iohn Saunders.</item>
+                        <item>Iohn Bludworth Eſq;</item>
+                        <item>Maximilian Beard Eſq;</item>
+                        <item>Wil. Eardly.</item>
+                        <item>Major Iohn Alſop.</item>
+                        <item>Tho. Lenthall Eſq;</item>
+                        <item>Col. Gower.</item>
+                        <item>Mr. Peter Mills.</item>
+                        <item>Mr. Nich. Penning.</item>
+                        <item>Capt. Cleggat.</item>
+                        <item>Sir Tho. Soame.</item>
+                        <item>Samuel Vaſſall Eſq;</item>
+                        <item>Maj. Gen. Phil. Skippon.</item>
+                        <item>Mr. Henry Aſhurſt.</item>
+                        <item>Ald. Pack.</item>
+                        <item>Ald. Dethick.</item>
+                        <item>Ald. Chiverton.</item>
+                        <item>Ald. Frederick.</item>
+                        <item>Ald. Milner.</item>
+                        <item>Ald. Love.</item>
+                        <item>Ald. Blackwell.</item>
+                        <item>Mr. Lawrence Blomley.</item>
+                        <item>Mr. Iames Noell</item>
+                        <item>Deputy Cliffe.</item>
+                        <item>Mr. Wil. Knellin.</item>
+                        <item>Mr. Iohn Maskall.</item>
+                        <item>Mr. Rich. Rives.</item>
+                        <item>Lieut. Col. Iackſon.</item>
+                        <item>Mr. Morris.</item>
+                        <item>Mr. Iohn Bathurſt.</item>
+                        <item>Mr. Iohn Cook.</item>
+                        <item>Mr. Wil. Allet.</item>
+                        <item>Mr. Tobias Aylmer.</item>
+                        <item>Deputy Minne.</item>
+                        <item>Mr. Iames Medlicot.</item>
+                        <item>Mr. Iohn Taylor Eſq;</item>
+                        <item>Mr. Tho. Cox.</item>
+                     </list>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are to be had at the Office of Intelligence</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="129" facs="tcp:168782:66"/>
+                  <head>
+                     <hi>Numb.</hi> 17. A PERFECT DIURNAL OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Monday, March.</hi> 12. 1659.</head>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>THat the Examination of Sir <hi>George Booth,</hi> his Lady and Servants, be taken off the File and delivered to the ſaid Sir <hi>George Booth.</hi>
+                  </p>
+                  <pb n="130" facs="tcp:168782:67"/>
+                  <p>Vpon a Report touching <hi>Trinity</hi> Houſe.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That <hi>Alexander Bence</hi> be and is hereby approved of to be Maſter of the <hi>Trinity</hi>-Houſe.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That Cap. <hi>Will. Rider</hi> be one of the New Wardens of <hi>Trinity</hi>-Houſe.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That this Report be Recom<g ref="char:EOLhyphen"/>mitted, and that the Committee be and are hereby impowred to bring in Names of Wardens and Brethren, for the <hi>Trinity</hi>-Houſe to morrow morning.</p>
+                  <p>A Proclamation Ingroſſed in Parchment, for putting the Laws
+<pb n="131" facs="tcp:168782:67"/>againſt Jeſuits, Seminaries and Po<g ref="char:EOLhyphen"/>piſh Prieſts, in effectual execution, was this day read the third time.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That this be the Title to this Bill, <hi>An Act and Declaration for putting the Laws againſt Prieſts and Jeſuits, in ſpeedy and effectual ex<g ref="char:EOLhyphen"/>ecution.</hi>
+                  </p>
+                  <p>And the ſaid Bill ſo amended was upon the queſtion paſſed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That a Bill be brought in to morrow morning for im<g ref="char:EOLhyphen"/>preſsing of Mariners to ſerve in the Fleets and ſhips of this Com<g ref="char:EOLhyphen"/>monwealth.</p>
+                  <pb n="132" facs="tcp:168782:68"/>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That <hi>Denzil Hollis</hi> Eſq; be and is hereby conſtituted <hi>Cuſtos Rotu<g ref="char:EOLhyphen"/>lorum</hi> of the County of <hi>Dorſet,</hi> to hold, execute and enjoy the ſaid Office, in as large and beneficial manner to all intents and purpoſes, as any other perſon or perſons had, held, or enjoyed the ſame.</p>
+                  <p>A Bill Engroſſed for ſetling the Militia of the City of <hi>London,</hi> was this day read the third time, and upon the queſtion paſſed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That this Act be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That <hi>Edward Truſſel</hi> Eſq; be and is hereby nominated
+<pb n="133" facs="tcp:168782:68"/>and appointed Sheriff for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Southampton,</hi> and that the Lords Commiſsioners of the Great Seale do paſs a Patent to him un<g ref="char:EOLhyphen"/>der the Great Seale, to be Sheriff of the County of <hi>Southampton</hi> ac<g ref="char:EOLhyphen"/>cordingly.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That <hi>George Chetham</hi> of <hi>Turton</hi> Eſq; be and is hereby nominated and approved of to be Sheriff of the County of <hi>Lancaſter,</hi> and that the Lords Commiſsioners for the Great Seale do paſs a patent to him under the Great Seale, to be She<g ref="char:EOLhyphen"/>riff of the County of <hi>Lancaſter</hi> ac<g ref="char:EOLhyphen"/>cordingly.</p>
+                  <pb n="134" facs="tcp:168782:69"/>
+                  <p>
+                     <hi>Ordered,</hi> That the Report con<g ref="char:EOLhyphen"/>cerning the Dutchy of <hi>Lancaſter</hi> be made to morrow morning.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Vote touching Sir <hi>Thomas Soame</hi> be diſcharged.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Reports touching Sir <hi>Andrew Dick</hi> and Mrs. <hi>Ingliſh</hi> be made to morrow morning.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Report touching Dr. <hi>Reynolds</hi> and Dr. <hi>Owen</hi> concerning the Deanery of <hi>Chriſt-Church,</hi> be made to morrow morning the firſt buſineſs.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That <hi>Thomas Cateſby</hi> Eſq; be
+<pb n="135" facs="tcp:168782:69"/>and is hereby nominated and ap<g ref="char:EOLhyphen"/>proved of to be Sheriff for the County of <hi>Bucks,</hi> and that the Lords Commiſsioners for the Great Seal do paſs a Patent under the Great Seal for conſtituting him Sheriff of the ſaid County of <hi>Bucks</hi> accordingly.</p>
+                  <p>The Houſe reſumed the De<g ref="char:EOLhyphen"/>bate upon the Bill of the <hi>Militia,</hi> unto which a Proviſo was tendred in theſe words: <hi>Provided that no Commiſsioner nor Commiſsionated Officer ſhall exerciſe any the powers or authorities herein mentioned, or any thing do in purſuance thereof, until that he in the preſence of five or more of the ſaid Commiſsioners,
+<pb n="136" facs="tcp:168782:70"/>ſhall firſt acknowledge in theſe words following,</hi> viz.</p>
+                  <p>
+                     <hi>I do acknowledge and declare, That the War undertaken by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment in their defence againſt the Forces raiſed in the name of the late King, was juſt and lawful; and that Magiſtracy and Miniſtery are the Ordinances of God.</hi>
+                  </p>
+                  <p>Which Clauſe was read the firſt and ſecond time, and Ordered to be ingroſſed: The ſaid <hi>Proviſo</hi> was ingroſſed accordingly, and read, and Ordered to be part of the Bill; and the ſaid Act ſo a<g ref="char:EOLhyphen"/>mended being put to the Queſtion paſſed.</p>
+                  <p>
+                     <hi>Ordered, That this Act be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</hi>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb</hi> living in <hi>Thames-ſtreet,</hi> over againſt Baynards Caſtle, 1660.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="137" facs="tcp:168782:70"/>
+                  <head>
+                     <hi>Numb.</hi> 18 A PERFECT DIURNAL: OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Tueſday</hi> 13. March.</head>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>THat the Engagement ap<g ref="char:EOLhyphen"/>pointed to be taken by Members of Parliament and others, in theſe words, <hi>viz.</hi>
+                  </p>
+                  <pb n="138" facs="tcp:168782:71"/>
+                  <p>
+                     <hi>I do declare and promiſe, that I will be true and faithful to the Common<g ref="char:EOLhyphen"/>wealth of</hi> England, <hi>as the ſame is now eſtabliſhed, without a King, or Houſe of Lords,</hi> be diſcharged, and ta<g ref="char:EOLhyphen"/>ken off the File.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That all Orders en<g ref="char:EOLhyphen"/>joining the taking of the ſaid En<g ref="char:EOLhyphen"/>gagement, be and are hereby va<g ref="char:EOLhyphen"/>cuated &amp; expunged out of the Journal Book of Parliament, and that Mr. <hi>Prin,</hi> Serjeant <hi>Maynard,</hi> and Col. <hi>Harley,</hi> do ſee the ſame expunged accordingly.</p>
+                  <p>
+                     <hi>Ordered,</hi> That it be referred to a Committee to conſider what
+<pb n="139" facs="tcp:168782:71"/>hath been done in this Houſe concerning the Lords Houſe, who are to ſtate the whole matter of fact, and report it to the Parlia<g ref="char:EOLhyphen"/>ment to morrow morning, and to meet this afternoon in the Spea<g ref="char:EOLhyphen"/>kers Chamber.</p>
+                  <p>The Houſe heard the Report touch<g ref="char:EOLhyphen"/>ing matter of Fact concerning the Denary of <hi>Chriſt-Church</hi> in <hi>Oxford,</hi> with a Letter from Dr. <hi>Owen,</hi> dated at <hi>Stadham,</hi> March 5, 1659. which was read.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That Dr. <hi>Owen</hi> be and is here<g ref="char:EOLhyphen"/>by diſcharged from being Dean of <hi>Chriſt-Church,</hi> Oxon.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That Dr <hi>Reynolds</hi> be and is hereby reſtored to the Denary of <hi>Chriſt-Church,</hi>
+                     <pb n="140" facs="tcp:168782:72"/>Oxon. with all Priviledges, pro<g ref="char:EOLhyphen"/>fits, and appurtenances to the ſaid place belonging, and that Dr. <hi>Reynolds</hi> be put in poſſeſſion of <hi>Chriſt-Church</hi> accordingly, and that the Sub-Dean and Senior Can<g ref="char:EOLhyphen"/>non of <hi>Chriſt-Church</hi> do ſee this Order put in effectual execution, and that Dr. <hi>Rey<g ref="char:EOLhyphen"/>nolds</hi> be put in poſſeſſion accordingly.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That Mr. <hi>Ambroſe Upton</hi> be diſcharged from being a Collegiate Pre<g ref="char:EOLhyphen"/>bend of Chriſt-Church, <hi>Oxon.</hi> And that Dr. <hi>Mills</hi> be and is hereby reſtored to be Collegiate Prebend of Chriſt-Church aforeſaid in the Room of the ſaid Mr. <hi>Ambroſe Upton</hi> with all Priviledges, pro<g ref="char:EOLhyphen"/>fits and appurtenances to the ſaid place belonging, and that he be put in poſſeſ<g ref="char:EOLhyphen"/>ſion of the ſaid Prebendary accordingly: And that the Sub-Dean and Senior Can<g ref="char:EOLhyphen"/>non of Chriſt-Church do ſee this Order put in effectual execution, and that
+<pb n="141" facs="tcp:168782:72" rendition="simple:additions"/>Dr. <hi>Mills</hi> be put in poſſeſſion accor<g ref="char:EOLhyphen"/>dingly.</p>
+                  <p>The Houſe received the Report from the Committee touching Maimed Soul<g ref="char:EOLhyphen"/>diers, Widdows, and Orphans.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the council of State do forthwith pay 1700 <abbr>
+                        <hi>l.</hi>
+                     </abbr> out of their Con<g ref="char:EOLhyphen"/>tingencies for the preſent relief of the poor Widdows, maimed Souldiers, and Orphans at <hi>Ely-houſe</hi> and the <hi>Savoy,</hi> and that the ſaid 1700 <hi>l.</hi> be repayed to them out of the Publick Revenew of the Ex<g ref="char:EOLhyphen"/>chequer.</p>
+                  <p>
+                     <hi>Ordered,</hi> That the particular perſons named of the Committee for the maimed Souldiers, Widdows and Orphans of <hi>Ely-houſe</hi> and the <hi>Savoy,</hi> be and are hereby authorized to reform abuſes touching the Governours and Government of the Ho<g ref="char:EOLhyphen"/>ſpitalls
+<pb n="142" facs="tcp:168782:73"/>of the <hi>Savoy</hi> and <hi>Ely-houſe,</hi> and to call the Governours to accompt for mo<g ref="char:EOLhyphen"/>nies by them received, with power to ſettle the Government for the beſt ad<g ref="char:EOLhyphen"/>vantage of the Commonwealth, and maintenance of the poor Widdows, mai<g ref="char:EOLhyphen"/>med Souldiers, and Orphans, and to re<g ref="char:EOLhyphen"/>move ſuch Officers as they think fit, and place others in their room, and report it to the Council of State, who are hereby authorized to confirm the ſame.</p>
+                  <p>Upon a Report from the Committee unto whom the Bill for diſſolution of this preſent Parliament was referred, that the Houſe do reſume the buſineſſe into their own conſideration.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the debate upon this buſineſſe, be taken up at two of the clock this afternoon nothing to inter<g ref="char:EOLhyphen"/>vene.</p>
+                  <pb n="143" facs="tcp:168782:73"/>
+                  <p>The Houſe adjourned until two of the Clock in the afternoon.</p>
+                  <div type="part">
+                     <head>Afternoon.</head>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the ſum of Six hundred pound with the Arrears, be conti<g ref="char:EOLhyphen"/>nued and payed unto Sir <hi>John Stowell,</hi> and charged upon the ſame revenew it was formerly charged, untill the Parliament take further order: and that the Council of State do ſign from time to time to make payment thereof accordingly.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Bills for ap<g ref="char:EOLhyphen"/>probation of Miniſters, and the
+<pb n="144" facs="tcp:168782:74"/>Act for ſetling Lands on his Ex<g ref="char:EOLhyphen"/>cellency the Lord General, be read to morrow morning the firſt buſineſſe.</p>
+                     <p>The Houſe likewiſe received the report of Amendments to the Bill for diſſolving this Parlia<g ref="char:EOLhyphen"/>ment, which was twice read, and upon the Queſtion, agreed unto.</p>
+                     <p>They had alſo under conſi<g ref="char:EOLhyphen"/>deration the Qualifications of Members to ſit and ſerve in Par<g ref="char:EOLhyphen"/>liament, and made ſome conſide<g ref="char:EOLhyphen"/>rable progreſſe therein.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are to be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="145" facs="tcp:168782:74"/>
+                  <head>
+                     <hi>Numb.</hi> 19. A PERFECT DIURNAL OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Wedneſday, March</hi> 14. 1659.</head>
+                  <p>A Bill for Approbation and ad<g ref="char:EOLhyphen"/>mittance of Miniſters to pub<g ref="char:EOLhyphen"/>lick Benefices &amp; Lectures, was this day read the third time, and the ſaid Bill being put to the queſtion, paſſd.</p>
+                  <pb n="146" facs="tcp:168782:75"/>
+                  <p>
+                     <hi>Ordered that this Act be printed and publiſhed.</hi>
+                  </p>
+                  <p>The Houſe reſumed the debate upon the Qualifications, and Re<g ref="char:EOLhyphen"/>ſolved,</p>
+                  <p>That all ſuch Perſon and Per<g ref="char:EOLhyphen"/>ſons who have Adviſed, Ayded, or any ways Aſsiſted or Abetted the Rebellion of <hi>Ireland,</hi> and all thoſe who do profeſs the Popiſh Religion, are diſabled to be elected Members to ſit in Parliament.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That all and every perſon who have adviſed or volun<g ref="char:EOLhyphen"/>tarily Ayded, Abetted, or Aſsiſted in any War againſt the Parliament, ſince the firſt day of <hi>January</hi> 1641.
+<pb n="147" facs="tcp:168782:75"/>unleſs he or they have ſince mani<g ref="char:EOLhyphen"/>feſted their good affection to this Parliament, ſhall be uncapable to be elected to ſerve Members in the next Parliament.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That he which ſhall enter into the Parliament, who is not qualified as aforeſaid, ſhall be deemed no Knight, Citizen or Burgeſs, nor Baron for the Parlia<g ref="char:EOLhyphen"/>ment, nor ſhall have any Voice, but ſhall be to all intents, conſtru<g ref="char:EOLhyphen"/>ctions and purpoſes, as if he had never been returned nor elected Knight, Citizen, Burgeſs or Baron for the Parliament, and ſhall ſuffer ſuch pains and penalties as if he
+<pb n="148" facs="tcp:168782:76"/>had preſumed to ſit in the ſame without Election, Return, or Au<g ref="char:EOLhyphen"/>thority.</p>
+                  <p>
+                     <hi>Ordered,</hi> That Colonel <hi>Philip Jones, Evan Seys</hi> Serjeant at Law, <hi>Col. Rowland Dawkins, John Price, Evan Lewis, Robert Thomas,</hi> and <hi>John Bowen</hi> 
+                     <abbr>Eſqs</abbr> be and are here<g ref="char:EOLhyphen"/>by nominated and appointed Com<g ref="char:EOLhyphen"/>miſsioners for the Aſſeſsments in the County of <hi>Glamorgan,</hi> and that they and every of them be and are hereby impowered and authoriſed to ſit and act as Commiſsioners for the Aſſeſsment as fully to all intents and purpoſes, as if they had been named in the Act entituled, <hi>An Act
+<pb n="149" facs="tcp:168782:76"/>for an Aſſefement of</hi> 100000 l. <hi>by the moneth upon</hi> England, Scotland <hi>and</hi> Ireland <hi>for ſix moneths.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordered,</hi> That <hi>Evan Seys</hi> Ser<g ref="char:EOLhyphen"/>jeant at Law; and <hi>William Jones</hi> Eſq; be and are conſtituted and ap<g ref="char:EOLhyphen"/>pointed Judges for <hi>North-wales,</hi> and that a Patent be paſſed to them to be Judges for <hi>North-wales</hi> in uſual form, and that Mr. Speaker do ſign a Dockquet for paſsing the ſaid patents to them under the great Seal, and that the Commiſsioners for cuſtody of the great Seal of <hi>England</hi> do paſs the ſaid patents ac<g ref="char:EOLhyphen"/>cordingly.</p>
+                  <p>The like Order paſſed for Mr.
+<pb n="150" facs="tcp:168782:77"/>
+                     <hi>Foxwiſt</hi> Eſq; to be ſecond Judge in <hi>Cheſter.</hi> And for <hi>John Corbet</hi> Eſq; to be Judge of the Circuit of <hi>Glamorgan, Brecknock,</hi> and <hi>Radnor,</hi> and alſo for Mr. <hi>Bennet Hoſkins</hi> Eſq; and Mr. <hi>Tho. Manby</hi> to be Judges of the Circuit of <hi>Carnarvan Cardigan</hi> and <hi>Pembroke.</hi>
+                  </p>
+                  <div type="part">
+                     <head>Afternoon.</head>
+                     <p>Ordered, That the Report concerning the Cuſtoms an<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> to morrow morning the firſt buſineſs.</p>
+                     <p>The Houſe read Amen <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> for reviving of the Court of the Dutchy-<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>a<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>er of <hi>Lancaſter</hi> at <hi>Weſtminſter,</hi> which was twice read.</p>
+                     <p>Reſolved, That Sir <hi>Gilbert Gerard</hi> be Chan<g ref="char:EOLhyphen"/>cellor of the Dutchy of Lancaſter.</p>
+                     <p>Reſolved, That <hi>Nicholas Lechmere</hi> Eſq; be Attorney of the Dutchy of Lancaſter.</p>
+                     <p>And the Bill ſo amended was upon the queſtion paſſed.</p>
+                     <pb n="151" facs="tcp:168782:77"/>
+                     <p>The Houſe read the Bill for Reſtoring of <hi>William Lenthal</hi> Eſq; Speaker of the Parliament to be Chamberlain of <hi>Cheſter,</hi> which was read the firſt and ſecond time, and upon the Queſtion paſſed.</p>
+                     <p>Ordered, That <hi>Thomas Waller</hi> Serjeant at Law, be and is hereby conſtituted and appointed Chief Juſtice of <hi>Cheſter,</hi> in as large, ample, and beneficial manner, as any other perſon or perſons formerly held and enjoyed the ſame, and that a Patent be paſſed, and that Mr. Speaker do ſigne a Docket for paſſing a Patent to the ſaid Serjeant <hi>Waller,</hi> and that the Lords Commiſſioners for Cuſtody of the Great Seal, do paſs the ſaid Patent under the Great Seal of England accord<g ref="char:EOLhyphen"/>ingly.</p>
+                     <p>
+                        <hi>Reſolved,</hi> That the Council of State be and are hereby Authori<g ref="char:EOLhyphen"/>ſed to iſſue forth Proclamations at any time vntill the firſt ſitting of the next Parliament, againſt ſuch per<g ref="char:EOLhyphen"/>ſons as they ſhall find dangerous to the Peace and ſafety of the Com<g ref="char:EOLhyphen"/>monwealth, who abſent them<g ref="char:EOLhyphen"/>ſelves
+<pb n="152" facs="tcp:168782:78"/>from their dwellings and pla<g ref="char:EOLhyphen"/>ces of their habitation, to ſummon them to appear before them at a certain day, under ſuch penalties as the caſe ſhall require, and as the Council of State ſhall think fit, to anſwer ſuch matters as ſhall be objected againſt them by the Coun<g ref="char:EOLhyphen"/>cil of State.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb</hi> living in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards</hi> Caſtle, 1660.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="153" facs="tcp:168782:78"/>
+                  <head>
+                     <hi>Numb.</hi> 20. A PERFECT DIURNAL: OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Thurſday</hi> 15. March.</head>
+                  <p>THe Houſe read the Report con<g ref="char:EOLhyphen"/>cerning the prizage of Wines, and the opinion of the ſaid Com<g ref="char:EOLhyphen"/>mittee thereupon.</p>
+                  <p>
+                     <hi>Reſolved,</hi> That the priſage Wines ought to pay no Tunnage or Cuſtome.</p>
+                  <pb n="154" facs="tcp:168782:79"/>
+                  <p>
+                     <hi>Refolved,</hi> That all ſuch Cuſtomes as have been taken from the Leſſee of the prizage Wines, or his Aſſignes, by the Cuſtomers, ſhall and ought to be allow<g ref="char:EOLhyphen"/>ed to him upon his Accompt, and defal<g ref="char:EOLhyphen"/>ked out of his Rents.</p>
+                  <p>The Bill for Confirmation of Mini<g ref="char:EOLhyphen"/>ſters, ſettled in any Perſonage, Vicarage or Hoſpital within this Commonwealth, was this day read the firſt and ſecond time, and committed unto a Commit<g ref="char:EOLhyphen"/>tee, who were Ordered preſently to withdraw, with power to conſider how to continue the powers touching grant<g ref="char:EOLhyphen"/>ing augmentations of Miniſters, and to bring in the Names of perſons to be Tru<g ref="char:EOLhyphen"/>ſtees, and to take the Bill touching <hi>Wales</hi> formerly committed into conſideration.</p>
+                  <p>The Houſe likewiſe Ordered the pay<g ref="char:EOLhyphen"/>ment of 5000 <hi>l.</hi> and of 4016 <hi>l.</hi> with Inte<g ref="char:EOLhyphen"/>reſt due unto Major General <hi>Brown,</hi> and formerly charged upon the Exciſe, one
+<pb n="155" facs="tcp:168782:79"/>fourth part whereof preſently, and the reſidue thereof at three three moneths by equall portions out of the preſent Re<g ref="char:EOLhyphen"/>ceipt of the Exciſe, and that his acquit<g ref="char:EOLhyphen"/>tance teſtifying the Receipt thereof ſhall be a ſufficient diſcharge.</p>
+                  <p>Reſolved, that the ſumme of twenty thouſand pounds be and is hereby conferred on his Excel<g ref="char:EOLhyphen"/>lency Generall <hi>George Monck,</hi> and that the ſame be charged upon the Receipts of the publick Ex<g ref="char:EOLhyphen"/>chequer (other then the Exciſe, Cuſtomes and Aſ<g ref="char:EOLhyphen"/>ſeſſements) and payd to the ſaid Generall <hi>George Monck,</hi> his Executors, Adminiſtrators or Aſſigns, as the ſame ſhall come in,</p>
+                  <p>Ordered, that a Bill be brought in for payment of the ſaid twenty thouſand pound to General <hi>George Monck</hi> accordingly, and that Mr <hi>Pryn</hi> and Mr <hi>Scowen</hi> doe bring in the ſaid Bill accordingly.</p>
+                  <p>The Houſe read the Bill enabling to ſue Bonds and ſecurities taken in the name of Oliver Lord Protector, or Richard Lord Protector, which was this day read the firſt and ſecond time, and upon the Queſtion paſſed.</p>
+                  <p>Ordered, that this Act be Printe and publi<g ref="char:EOLhyphen"/>ſhed.</p>
+                  <p>Reſolved that this be the Title of the ſaid Act
+<pb n="156" facs="tcp:168782:80"/>viz <hi>An Act for the payment of Debts due to the publick.</hi>
+                  </p>
+                  <p>A Bill for countenancing the Receivers, and im<g ref="char:EOLhyphen"/>powring them to get in the Rents and Revenues of Delinquents and Popiſh Recuſants Eſtates, was this day read the firſt and ſecond time, and ſo paſſed.</p>
+                  <p>Ordered, that the two Troups of <hi>Oxfordſhire</hi> be payd their moneths pay, as the reſt of the Army are payd.</p>
+                  <p>Reſolved, that the buſineſſe concerning Mr <hi>Long,</hi> be taken into conſideration next after the buſineſſe of Generall <hi>Monck.</hi>
+                  </p>
+                  <p>Ordered, that Sr <hi>Thomas Greiſley</hi> Baronet, Sr <hi>Iohn Curſon</hi> Knight and Baronet, <hi>Walter Horton</hi> Eſquire, <hi>Charles Agard</hi> Eſquire, <hi>George Sidwell</hi> Eſquire, <hi>Gilbert Thacker</hi> Eſquire, and <hi>George Tay<g ref="char:EOLhyphen"/>lor</hi> Gent, be and are hereby nominated and ap<g ref="char:EOLhyphen"/>pointed Commiſſioners for the Aſſeſſements in the County of <hi>Derby,</hi> and that they and every of them, be and are hereby impowred and authorized to ſit and Act as Commiſſioners for the Aſſeſſements, as fully to all intents and purpoſes as if they had been named in the Act Entituled, <hi>An Act for an Aſ<g ref="char:EOLhyphen"/>ſeſſement of one hundred thouſand pound by the moneth, upon</hi> England, Scotland <hi>and</hi> Ireland <hi>for ſix moneths.</hi>
+                  </p>
+                  <p>The Houſe adjourned untill three of the clock.</p>
+                  <div type="part">
+                     <pb n="157" facs="tcp:168782:80"/>
+                     <head>Afternoon.</head>
+                     <p>Reſolved, that the grant of the Office of chief Regiſter in Chancery made to <hi>Miles Corbet</hi> Eſq; and Mr. <hi>Rob. Goodwin</hi> ſhall from henceforth ceaſe and be voyd, &amp; that the differences between <hi>Walter Long</hi> Eſq; a member of Parliament, and the Lady <hi>Lermin</hi> touching the ſaid Office, be and is hereby reſerred unto <hi>Donzill Hollis</hi> and <hi>Harbotle Grimſtone,</hi> to determine the ſame.</p>
+                     <p>The Houſe read a Bill for giving power to the Council of State during the Interval, in order to publick ſafety, which after the firſt and ſecond rea<g ref="char:EOLhyphen"/>ding paſſed.</p>
+                     <p>Reſolved, that the Letters Credentials from the King of <hi>Sweden</hi> given at <hi>Gottenburgh</hi> 13 <hi>Feb.</hi> 1660, and former Letters from the ſaid King of <hi>Sweden,</hi> delivered in by Mr Speaker, be referred to the Council of State.</p>
+                     <p>The Houſe alſo read the Credentials of <hi>Alger<g ref="char:EOLhyphen"/>non Sidney</hi> and Sr <hi>Robert Honywood</hi> Knight, Pleni<g ref="char:EOLhyphen"/>potentiaries to the King of <hi>Sweden.</hi>
+                     </p>
+                     <pb n="158" facs="tcp:168782:81"/>
+                     <p>Ordered, that the Council of State do write ſuch Letters Credentiall for the ſaid Plenipoten<g ref="char:EOLhyphen"/>tiaries as they ſhall think fit, and that Mr Speaker do ſign the ſame, and ſeal the ſame with the Parlia<g ref="char:EOLhyphen"/>ments Seal.</p>
+                     <p>The Houſe likewiſe read the Bill for continu<g ref="char:EOLhyphen"/>ing the Tearms, Proceſſes and Proceedings of the four Courts of Iuſtice in <hi>Ireland,</hi> which being read the firſt and ſecond time upon the Queſtion paſſed.</p>
+                     <p>Likewiſe the Bill for reviving an Act for Im<g ref="char:EOLhyphen"/>preſſing of Seamen was this day read the firſt and ſecond time.</p>
+                     <p>Reſolved, that this Act doe continue untill the 24 of <hi>Iune</hi> 1660 and no longer, and the ſaid Bill ſo amended being put to the Queſtion paſſed.</p>
+                     <p>Reſolved that further power be granted unto the Council of State to iſſue their Warrants to the Commiſſioners of the great Seal, for the Autho<g ref="char:EOLhyphen"/>rizing them to paſſe under the great Seal ſuch Commiſſions or Plenipotentiaries, as the Council ſhall find neceſſary to forreign Miniſters employ<g ref="char:EOLhyphen"/>ed from this Commonwealth, and particularly for thoſe employed in <hi>Sweden.</hi>
+                     </p>
+                     <p>The Houſe alſo paſſed an Act for removing obſtructions in bringing in the Aſſeſſements.</p>
+                     <pb n="159" facs="tcp:168782:81"/>
+                     <p>
+                        <hi>Reſolved,</hi> That power be and is hereby given to the Council of State to diſ<g ref="char:EOLhyphen"/>charge Colonel <hi>John Lambert</hi> from his Im<g ref="char:EOLhyphen"/>priſonment upon his Paroll or ſecurity, as they ſhall ſee cauſe.</p>
+                     <p>
+                        <hi>Reſolved,</hi> That Dr. <hi>Wren</hi> be diſchar<g ref="char:EOLhyphen"/>ged of his Impriſonment, and that the Lieutenant of the Tower be and is here<g ref="char:EOLhyphen"/>by required to diſcharge him according<g ref="char:EOLhyphen"/>ly.</p>
+                     <p>
+                        <hi>Reſolved,</hi> That the like power be and is hereby given to the Council of State to diſcharge any other perſon or perſons that are impriſoned upon any crime com<g ref="char:EOLhyphen"/>mitted againſt the State.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Act for the Mini<g ref="char:EOLhyphen"/>ſters, the Act for the General, and the Act for diſſolving this preſent Parliament be taken into conſideration to morrow morning, nothing to intervene.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Petition of the Ad<g ref="char:EOLhyphen"/>venturers for Lands in <hi>Ireland</hi> be referred
+<pb n="160" facs="tcp:168782:82"/>to the Council of Stare, to take the ſame into conſideration, and to ſettle thoſe that are already in poſſeſſion, and ſupply<g ref="char:EOLhyphen"/>ing of Deficiencies out of Land forfeit<g ref="char:EOLhyphen"/>ed to the Commonwealth.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Truſtees for ſale of Lands forfeited to the Commonwealth for Treaſon, be and are required to for<g ref="char:EOLhyphen"/>bear to ſell and of the Lands or Eſtates of the Lord St. <hi>Iohn,</hi> and of the Lord <hi>Craven,</hi> and a ſtop be and is nereby put to the ſel<g ref="char:EOLhyphen"/>ling of the ſame, and in ſelling of the Timber on their or either of their lands yet unſold.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are ſo be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="161" facs="tcp:168782:82"/>
+                  <head>
+                     <hi>Numb.</hi> 21. A PERFECT DIURNAL: OR The daily Proceedings in PARLIAMENT.</head>
+                  <head type="sub">Publiſhed according to Order.</head>
+                  <head type="sub">
+                     <hi>Friday</hi> 16. March.</head>
+                  <p>
+                     <hi>THe Reader is to take notice that a</hi> Diurnal <hi>of this daies Proceedings is intended to be publiſhed by another hand, which con<g ref="char:EOLhyphen"/>tains onely the Forenoon, and that im<g ref="char:EOLhyphen"/>perfect, as will appear by this which is taken from the Original.</hi>
+                  </p>
+                  <pb n="162" facs="tcp:168782:83"/>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That <hi>Iohn Iure</hi> a Servant attending on the Parliament, having been arreſted and being impriſoned at the Suit of <hi>Iohn Biſcoe</hi> be and is hereby diſcharged of his impri<g ref="char:EOLhyphen"/>ſonment, and that <hi>Richard George</hi> a Bay<g ref="char:EOLhyphen"/>liffe of the Liberties of <hi>Weſtminſter</hi> who ar<g ref="char:EOLhyphen"/>reſted the ſaid <hi>Iohn Iure</hi> be ſent for in cu<g ref="char:EOLhyphen"/>ſtody, and that the Serjeant at Arms at<g ref="char:EOLhyphen"/>tending the Parliament, do take him in<g ref="char:EOLhyphen"/>to Cuſtody accordingly.</p>
+                  <p>Information being given to the Houſe that there was a neglect by the Printer, in not expediting the Acts for the <hi>Militia:</hi> the Parliament nominated a Committee to goe unto the Printing houſe, and to examine matters of fact; Mr. <hi>Prin</hi> re<g ref="char:EOLhyphen"/>ports from the ſaid Committee, that ac<g ref="char:EOLhyphen"/>cording to order of Parliament they went to the Printer's laſt night, and did find that there was no fault in the Clerk nor
+<pb n="163" facs="tcp:168782:83"/>in the Printer, nor no delay in the one nor in the other.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That the Pattent concerning <hi>Sion</hi> Colledge, now in the hands of the Clerk of the Parliament, be delivered unto Mr. <hi>Manton.</hi>
+                  </p>
+                  <p>A Bill for conferring of 20000 <hi>l.</hi> on Captain Ge<g ref="char:EOLhyphen"/>neral <hi>George Monck,</hi> for his Eminent ſervices, was this day read the firſt, ſecond and third time, and upon the Queſtion paſſed.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That his Excellency the Lord General <hi>Monck</hi> be and is hereby conſtituted Steward of the Honors and Mannors of <hi>Hampton</hi> Court, and Keeper of the Houſe and Park there, and that he hold and enjoy the ſame, with all Rights and Priviledges to the ſaid Stewardſhip, belonging in as large, ample, and beneficiall manner to all intents and purpoſes as any Steward of the Honors and Mannors of <hi>Hampton</hi> Court, Keeper of the Houſe &amp; Parks, have at any time heretofore had and enjoyed the ſame.</p>
+                  <p>
+                     <hi>Reſolved,</hi>
+                  </p>
+                  <p>That the Act for diſſolution of this Parliament be read the firſt buſineſſe this Afternoon, nothing to intervene.</p>
+                  <p>Amendments to the Bill for ſettling incumbents in ſequeſtred livings, which being twice read, upon
+<pb n="164" facs="tcp:168782:84"/>the Queſtion, was agreed upon, and the ſaid Act ſo amended, being put to the Queſtion, paſſed.</p>
+                  <p>
+                     <hi>Ordered,</hi>
+                  </p>
+                  <p>That this be the Title of this Act, <hi>viz.</hi> an Act for Miniſters and payment of Tythes</p>
+                  <p>
+                     <hi>Ordered,</hi> That this Act be forthwith printed and publiſhed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That Mr. <hi>Martin Blague</hi> be and is here<g ref="char:EOLhyphen"/>by reſtored to his living at <hi>Barſtaple</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Devon,</hi> and it is referred to the Lords Com<g ref="char:EOLhyphen"/>miſſioners for Cuſtody of the great Seal, and the Maſter of the Rolls or any two of them to ſee this Order executed, and that the ſaid <hi>Martin Blague</hi> be put in poſſeſſion of the ſaid Living accordingly.</p>
+                  <p>A Letter from General <hi>George Monck</hi> from St. <hi>Iameſes</hi> of the ſixteenth of <hi>March.</hi> 1659. was read.</p>
+                  <p>
+                     <hi>Ordered,</hi> that three Gentlemen be appointed to go unto the General to give him ſatisfaction and re<g ref="char:EOLhyphen"/>port their proceeding herein to the Parliament.</p>
+                  <p>A Bill for taking the Accounts and redreſſing of grievances concerning the Tythes and Church Eivings in <hi>VVales,</hi> and for advancement of Reli<g ref="char:EOLhyphen"/>gion and Learning there was this day day read the third time, and upon the Queſtion paſſed.</p>
+                  <p>
+                     <hi>Ordered,</hi> That this Act be forth with printed and publiſhed.</p>
+                  <pb n="165" facs="tcp:168782:84"/>
+                  <p>
+                     <floatingText xml:lang="eng" type="notice">
+                        <body>
+                           <head>An Advertiſement to the Reader.</head>
+                           <p>WHere as a <hi>Reſolve</hi> was publiſhed in the <hi>Thurſ<g ref="char:EOLhyphen"/>days</hi> Diurnal concerning Qualifications of Members to ſit and ſerve in Parliament. The Rea<g ref="char:EOLhyphen"/>der is to take norice, that there was an amendment paſſed to be added unto the ſaid <hi>Reſolve, viz. After the firſt day of</hi> Ian. 1641. <hi>his or their ſons be added</hi> ſo that the <hi>Reſolve</hi> thus amended, is as followeth.</p>
+                           <p>Reſolved, <hi>That all and every perſon who have adviſed or voluntarily aided, abetted or aſsiſted in any war againſt the Parliament (ſince the firſt day of</hi> Ia<g ref="char:EOLhyphen"/>nuary 1641.) <hi>his or their ſons, unleſſe the or they have ſince manifeſted their good affection to this Par<g ref="char:EOLhyphen"/>liament, ſhall be uncapable to be elected to ſerve as Members of the next Parliament.</hi>
+                           </p>
+                        </body>
+                     </floatingText>
+                  </p>
+                  <div type="part">
+                     <head>Afternoon.</head>
+                     <p>The Committee appointed to go to the General, Reports that the General upon Reading the Clauſes in the Act for the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> reſted well ſatisfied.</p>
+                     <p>A Bill en groſſed for diſſolving
+<pb n="166" facs="tcp:168782:85"/>of the Parliament begun and holden at <hi>Westminster</hi> the third of <hi>November</hi> 1640. and for the calling and holding of a Parlia<g ref="char:EOLhyphen"/>ment at <hi>Weſtminſter</hi> on the 25. day of <hi>April</hi> 1660. was this day read the third time. A Proviſo unto the ſaid Bill was tendered and Read the firſt and ſecond time, and upon the queſtion agreed unto; <hi>viz.</hi> Provided alwayes, and be it declared that the ſingle Actings of this Houſe, enforced by the preſſing neceſſities of the preſent times, are not intended in the leaſt to infringe, much leſſe take away, that Ancient native right which the Houſe of
+<pb n="167" facs="tcp:168782:85"/>Peers (conſiſting of the Lords who did engage in the Cauſe of the Parliament againſt the forces raiſed in the name of the late King, and ſo continued until 1648.) had and have to be a part of the Parliament of <hi>England.</hi>
+                     </p>
+                     <p>
+                        <hi>Reſolved,</hi>
+                     </p>
+                     <p>That the day for the diſſolu<g ref="char:EOLhyphen"/>tion of the Parliament be from the 16. day of <hi>March</hi> 1659. And the ſaid Bill ſo amended being put to the queſtion paſſed.</p>
+                     <p>
+                        <hi>Ordered that this Act be printed and publiſhed.</hi>
+                     </p>
+                     <p>
+                        <hi>Reſolved,</hi>
+                     </p>
+                     <p>That this day three weeks be<g ref="char:EOLhyphen"/>ing <hi>Friday</hi> the 6. of <hi>April</hi> 1660. be
+<pb n="168" facs="tcp:168782:86"/>ſet apart for a day of publick faſt<g ref="char:EOLhyphen"/>ing and Humiliation to be ſole<g ref="char:EOLhyphen"/>mnized throughout theſe Na<g ref="char:EOLhyphen"/>tions to ſeek the Lord for his bleſ<g ref="char:EOLhyphen"/>ſing upon the Parliament to be called, that the Lord will make them healers of our Breaches, and inſtruments to reſolve and ſettle peace and Government in theſe Nations upon foundations of truth and righteouſneſſe:</p>
+                     <p>The Writs for chooſing of Members to ſit and ſerve in Parliament are to be iſſued forth in the names of the Keepers of the Liberties of <hi>England</hi> by Authority of Parliament.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+                  <p>And are to be had at the Office of Intelligence.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
